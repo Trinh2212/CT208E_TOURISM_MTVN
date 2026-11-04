@@ -1,0 +1,5 @@
+pymongo>=4.15,<5
+python-dotenv>=1.2,<2
+Pillow>=12,<14
+jsonschema>=4.25,<5
+Flask>=3.1,<4

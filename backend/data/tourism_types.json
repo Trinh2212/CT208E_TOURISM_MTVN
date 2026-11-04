@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "TT_SONG_NUOC",
+    "name": "Sông nước"
+  },
+  {
+    "_id": "TT_MIET_VUON",
+    "name": "Miệt vườn"
+  },
+  {
+    "_id": "TT_VAN_HOA",
+    "name": "Văn hóa"
+  },
+  {
+    "_id": "TT_LICH_SU",
+    "name": "Lịch sử"
+  },
+  {
+    "_id": "TT_SINH_THAI",
+    "name": "Sinh thái"
+  },
+  {
+    "_id": "TT_TAM_LINH",
+    "name": "Tâm linh"
+  },
+  {
+    "_id": "TT_LANG_NGHE",
+    "name": "Làng nghề"
+  },
+  {
+    "_id": "TT_BIEN_DAO",
+    "name": "Biển đảo"
+  }
+]

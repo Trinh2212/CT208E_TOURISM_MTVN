@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "F_CT",
+    "name": "Cần Thơ",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_ST",
+    "name": "Sóc Trăng",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_HG",
+    "name": "Hậu Giang",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_VL",
+    "name": "Vĩnh Long",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_BT",
+    "name": "Bến Tre",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_TV",
+    "name": "Trà Vinh",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_DT",
+    "name": "Đồng Tháp",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_TG",
+    "name": "Tiền Giang",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_CM",
+    "name": "Cà Mau",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_BL",
+    "name": "Bạc Liêu",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_AG",
+    "name": "An Giang",
+    "scheme": "former"
+  },
+  {
+    "_id": "F_KG",
+    "name": "Kiên Giang",
+    "scheme": "former"
+  },
+  {
+    "_id": "C_CT",
+    "name": "Cần Thơ",
+    "scheme": "current",
+    "former_province_ids": [
+      "F_CT",
+      "F_ST",
+      "F_HG"
+    ]
+  },
+  {
+    "_id": "C_VL",
+    "name": "Vĩnh Long",
+    "scheme": "current",
+    "former_province_ids": [
+      "F_VL",
+      "F_BT",
+      "F_TV"
+    ]
+  },
+  {
+    "_id": "C_DT",
+    "name": "Đồng Tháp",
+    "scheme": "current",
+    "former_province_ids": [
+      "F_DT",
+      "F_TG"
+    ]
+  },
+  {
+    "_id": "C_CM",
+    "name": "Cà Mau",
+    "scheme": "current",
+    "former_province_ids": [
+      "F_CM",
+      "F_BL"
+    ]
+  },
+  {
+    "_id": "C_AG",
+    "name": "An Giang",
+    "scheme": "current",
+    "former_province_ids": [
+      "F_AG",
+      "F_KG"
+    ]
+  }
+]

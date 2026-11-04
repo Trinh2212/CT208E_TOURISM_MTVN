@@ -1,0 +1,1 @@
+"""Chạy các script từ thư mục gốc dự án: python -m backend.scripts.<tên_script>."""
