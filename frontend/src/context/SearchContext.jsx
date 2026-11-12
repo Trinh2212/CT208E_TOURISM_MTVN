@@ -1,10 +1,11 @@
-﻿import { createContext, useContext, useEffect, useRef, useState } from "react";
+import { createContext, useContext, useEffect, useRef, useState } from "react";
 import * as service from "../services/placesService";
 const SearchContext = createContext(null);
 const defaultFilters = { boundaryMode: "after", province: "", type: "" };
 export function SearchProvider({ children }) {
   const [text, setText] = useState("");
   const [image, setImage] = useState(null);
+  const [activeQuery, setActiveQuery] = useState(null);
   const [filters, setFilters] = useState(defaultFilters);
   const [results, setResults] = useState([]);
   const [status, setStatus] = useState("loading");
@@ -19,12 +20,29 @@ export function SearchProvider({ children }) {
   const [mobileView, setMobileView] = useState("list");
   const viewport = useRef(null);
   const listScroll = useRef(0);
+  const boundaryRef = useRef(filters.boundaryMode);
+  boundaryRef.current = filters.boundaryMode;
   const [retry, setRetry] = useState(0);
   const [filtersRetry, setFiltersRetry] = useState(0);
   useEffect(() => {
     const url = image?.url;
     return () => { if (url) URL.revokeObjectURL(url); };
   }, [image]);
+  useEffect(() => {
+    if (activeQuery && !text.trim() && !image) {
+      listScroll.current = 0;
+      setActiveQuery(null);
+    }
+  }, [activeQuery, text, image]);
+  useEffect(() => {
+    const before = filters.boundaryMode === "before";
+    setResults((current) =>
+      current.map((item) => ({
+        ...item,
+        province: before ? item.provinceBefore : item.provinceAfter,
+      })),
+    );
+  }, [filters.boundaryMode]);
   useEffect(() => {
     const controller = new AbortController();
     let active = true;
@@ -51,11 +69,27 @@ export function SearchProvider({ children }) {
     setStatus("loading");
     setError("");
     setResults([]);
-    service.listPlaces(filters, { signal: controller.signal })
+    const currentFilters = {
+      boundaryMode: boundaryRef.current,
+      province: filters.province,
+      type: filters.type,
+    };
+    const request = activeQuery
+      ? service.searchPlaces(
+          { text: activeQuery.text, image: activeQuery.image, filters: currentFilters },
+          { signal: controller.signal },
+        )
+      : service.listPlaces(currentFilters, { signal: controller.signal });
+    request
       .then((items) => {
         if (!active) return;
-        setResults(items);
-        setSelectedId((id) => items.some((item) => item.place_id === id) ? id : null);
+        const before = boundaryRef.current === "before";
+        const synced = items.map((item) => ({
+          ...item,
+          province: before ? item.provinceBefore : item.provinceAfter,
+        }));
+        setResults(synced);
+        setSelectedId((id) => synced.some((item) => item.place_id === id) ? id : null);
         setStatus("ready");
       })
       .catch((err) => {
@@ -65,7 +99,17 @@ export function SearchProvider({ children }) {
         setStatus("error");
       });
     return () => { active = false; controller.abort(); };
-  }, [filters, retry]);
+  }, [activeQuery, filters.province, filters.type, retry]);
+  const submitSearch = () => {
+    const trimmed = text.trim();
+    if (!trimmed && !image) return;
+    listScroll.current = 0;
+    setActiveQuery((current) => ({
+      text: trimmed,
+      image: image?.file ?? null,
+      version: (current?.version ?? 0) + 1,
+    }));
+  };
   const updateFilter = (name, value) => {
     listScroll.current = 0;
     setFilters((current) => ({
@@ -77,9 +121,19 @@ export function SearchProvider({ children }) {
     listScroll.current = 0;
     setFilters(defaultFilters);
   };
+  const exploreAll = () => {
+    listScroll.current = 0;
+    setText("");
+    setImage(null);
+    setActiveQuery(null);
+    setFilters(defaultFilters);
+  };
   return (
     <SearchContext.Provider value={{
-      text, setText, image, setImage, filters, updateFilter, clearFilters,
+      text, setText, image, setImage,
+      isSearchMode: Boolean(activeQuery),
+      submitSearch, exploreAll,
+      filters, updateFilter, clearFilters,
       results, status, error, selectedId, setSelectedId, viewport, listScroll,
       filterOptions,
       filtersStatus: optionsBoundary !== filters.boundaryMode && filtersStatus !== "error" ? "loading" : filtersStatus,

@@ -6,11 +6,13 @@ import {
   validateImageFiles,
 } from "../../services/imageValidation";
 export default function SearchBar() {
-  const { text, setText, image, setImage } = useSearch();
+  const { text, setText, image, setImage, submitSearch, status, isSearchMode } = useSearch();
   const input = useRef(null);
   const imagePreview = useRef(null);
   const [error, setError] = useState("");
   const [reading, setReading] = useState(false);
+  const canSearch = Boolean(text.trim()) || Boolean(image);
+  const searching = isSearchMode && status === "loading";
   async function selectImage(event) {
     const files = Array.from(event.target.files ?? []);
     event.target.value = "";
@@ -33,6 +35,9 @@ export default function SearchBar() {
   }
   function handleSubmit(event) {
     event.preventDefault();
+    if (!canSearch || reading) return;
+    setError("");
+    submitSearch();
   }
   return (
     <section className="search-strip" aria-label="Tìm kiếm địa điểm">
@@ -53,6 +58,20 @@ export default function SearchBar() {
             placeholder="Bạn muốn khám phá điều gì?"
             aria-describedby={error ? "search-error" : undefined}
           />
+          {text && (
+            <button
+              type="button"
+              className="query-clear-button"
+              aria-label="Xóa nội dung tìm kiếm"
+              onClick={() => {
+                setText("");
+                setError("");
+                input.current?.focus();
+              }}
+            >
+              <X />
+            </button>
+          )}
         </div>
         <div className={`image-query${image ? " has-image" : ""}`}>
           {image ? (
@@ -97,10 +116,10 @@ export default function SearchBar() {
         <button
           className="button primary search-button"
           type="submit"
-          disabled
+          disabled={!canSearch || reading || searching}
         >
           <Search />
-          <span>Tìm kiếm</span>
+          <span>{searching ? "Đang tìm…" : "Tìm kiếm"}</span>
         </button>
         {error && (
           <p id="search-error" className="form-error" role="alert">

@@ -1,4 +1,4 @@
-﻿// Adapter dữ liệu HTTP duy nhất được sử dụng bởi các component và context của React.
+// Adapter dữ liệu HTTP duy nhất được sử dụng bởi các component và context của React.
 export class ApiError extends Error {
   constructor(message, status) {
     super(message);
@@ -7,10 +7,15 @@ export class ApiError extends Error {
   }
 }
 
-async function getJson(path, { signal } = {}) {
+async function requestJson(path, { method = "GET", body, signal } = {}) {
   let response;
   try {
-    response = await fetch(path, { signal, headers: { Accept: "application/json" } });
+    response = await fetch(path, {
+      method,
+      body,
+      signal,
+      headers: { Accept: "application/json" },
+    });
   } catch (error) {
     if (error.name === "AbortError") throw error;
     throw new ApiError("Không kết nối được máy chủ. Kiểm tra kết nối và thử lại.", 0);
@@ -26,6 +31,10 @@ async function getJson(path, { signal } = {}) {
     throw new ApiError(data?.error?.message || "Không thể tải dữ liệu. Vui lòng thử lại.", response.status);
   }
   return data;
+}
+
+function getJson(path, options = {}) {
+  return requestJson(path, options);
 }
 
 function itemsOf(data) {
@@ -46,13 +55,27 @@ function imageFromApi(image, name) {
   };
 }
 
+function matchedEvidenceFromApi(evidence, name) {
+  if (!evidence) return null;
+  return {
+    type: evidence.type,
+    descId: evidence.desc_id ?? null,
+    snippet: evidence.snippet ?? null,
+    image: evidence.image ? imageFromApi(evidence.image, evidence.snippet || name) : null,
+  };
+}
+
 // Giữ nguyên cấu trúc dữ liệu cho giao diện component; các giá trị hiển thị được lấy từ API.
 function placeFromApi(item, boundaryMode = "after") {
   const before = boundaryMode === "before";
   const coverImage = imageFromApi(item.cover_image, item.name);
   const images = item.images?.map((image) => imageFromApi(image, item.name)) ?? (coverImage ? [coverImage] : []);
+  const matchedEvidence = matchedEvidenceFromApi(item.matched_evidence, item.name);
   return {
     place_id: item.id,
+    rank: typeof item.rank === "number" ? item.rank : null,
+    score: typeof item.score === "number" ? item.score : null,
+    matchedEvidence,
     name: item.name,
     provinceBefore: item.province_former.name,
     provinceAfter: item.province_current.name,
@@ -74,6 +97,22 @@ export async function listPlaces(filters = {}, options = {}) {
   if (filters.type) params.set("tourism_type_id", filters.type);
   const suffix = params.size ? `?${params}` : "";
   const data = await getJson(`/api/places${suffix}`, options);
+  return itemsOf(data).map((item) => placeFromApi(item, filters.boundaryMode));
+}
+
+export async function searchPlaces({ text = "", image = null, filters = {} } = {}, options = {}) {
+  const formData = new FormData();
+  const trimmed = text.trim();
+  if (trimmed) formData.append("query_text", trimmed);
+  const imageFile = image?.file ?? image;
+  if (imageFile) formData.append("query_image", imageFile);
+  if (filters.province) formData.append("province_id", filters.province);
+  if (filters.type) formData.append("tourism_type_id", filters.type);
+  const data = await requestJson("/api/search", {
+    method: "POST",
+    body: formData,
+    signal: options.signal,
+  });
   return itemsOf(data).map((item) => placeFromApi(item, filters.boundaryMode));
 }
 

@@ -15,6 +15,7 @@ Mô-đun định nghĩa các API Endpoints
 /api/places: lấy danh sách địa điểm
 /api/places/<place_id> : lấy chi tiết một địa điểm
 /api/images/<image_id> : trả về file ảnh gốc thông qua send_file
+/api/search : tìm kiếm đa phương thức (text, image, multimodal) trả về Top-K địa điểm
 """
 import re
 
@@ -22,6 +23,7 @@ from flask import Blueprint, current_app, jsonify, request, send_file
 from werkzeug.exceptions import BadRequest, NotFound
 
 from backend.services.images import get_image_file
+from backend.services.search import load_query_image
 from backend.services.tourism import TourismService
 
 api = Blueprint("api", __name__, url_prefix="/api")
@@ -30,6 +32,11 @@ api = Blueprint("api", __name__, url_prefix="/api")
 def database():
     """Lấy đối tượng database MongoDB từ extensions của Flask app đang chạy."""
     return current_app.extensions["mongodb"].get_database()
+
+
+def search_service():
+    """Lấy đối tượng SearchService từ extensions của Flask app đang chạy."""
+    return current_app.extensions["search"]
 
 
 def query_parameters(allowed):
@@ -106,3 +113,45 @@ def image_file(image_id):
         return send_file(path, mimetype=mimetype, conditional=True)
     except OSError:
         raise NotFound("Không tìm thấy tệp ảnh.") from None
+
+
+@api.post("/search")
+def search():
+    query_parameters(())
+    allowed_form = {"query_text", "province_id", "tourism_type_id"}
+    allowed_files = {"query_image"}
+    if set(request.form) - allowed_form or set(request.files) - allowed_files:
+        raise BadRequest("Có tham số không được hỗ trợ.")
+
+    for key in request.form:
+        if len(request.form.getlist(key)) != 1:
+            raise BadRequest("Tham số không được lặp.")
+
+    image_files = request.files.getlist("query_image")
+    if len(image_files) > 1:
+        raise BadRequest("Mỗi truy vấn chỉ được dùng một ảnh.")
+
+    query_text = request.form.get("query_text", "").strip()
+    province_id = request.form.get("province_id", "").strip() or None
+    tourism_type_id = request.form.get("tourism_type_id", "").strip() or None
+
+    if province_id is not None:
+        valid_id(province_id, r"[FC]_[A-Z]{2}")
+    if tourism_type_id is not None:
+        valid_id(tourism_type_id, r"TT_[A-Z]+(?:_[A-Z]+)*")
+
+    query_image = None
+    if image_files and image_files[0].filename:
+        query_image = load_query_image(image_files[0])
+
+    if not query_text and query_image is None:
+        raise BadRequest("Vui lòng nhập mô tả hoặc chọn một ảnh để tìm kiếm.")
+
+    result = search_service().search(
+        database(),
+        query_text=query_text,
+        query_image=query_image,
+        province_id=province_id,
+        tourism_type_id=tourism_type_id,
+    )
+    return jsonify(result)

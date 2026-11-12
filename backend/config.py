@@ -21,14 +21,16 @@ class ConfigurationError(ValueError):
 class Settings:
     """Cấu hình bất biến cho toàn bộ backend (API và script CLI).
     ``mongodb_uri`` bị ẩn khỏi ``repr()`` để không vô tình in credential.
-    Đường dẫn ``dataset_path`` và ``data_root`` có giá trị mặc định tương đối
-    với thư mục gốc dự án.
+    Đường dẫn ``dataset_path``, ``data_root``, ``faiss_store_dir`` và ``vncorenlp_dir``
+    có giá trị mặc định tương đối với thư mục gốc dự án.
     """
     mongodb_uri: str = field(repr=False)
     mongodb_database: str
     mongodb_timeout_ms: int
     dataset_path: Path = PROJECT_ROOT / "dataset" / "raw" / "raw_dataset.json"
     data_root: Path = PROJECT_ROOT / "dataset" / "raw"
+    faiss_store_dir: Path = PROJECT_ROOT / "notebooks" / "outputs" / "faiss_store"
+    vncorenlp_dir: Path = PROJECT_ROOT / "notebooks" / "vncorenlp_model"
 
 
 def load_settings() -> Settings:
@@ -61,4 +63,6 @@ def load_settings() -> Settings:
         uri, name, timeout,
         configured_path("DATASET_PATH", "dataset/raw/raw_dataset.json"),
         configured_path("DATA_ROOT", "dataset/raw"),
+        configured_path("FAISS_STORE_DIR", "notebooks/outputs/faiss_store"),
+        configured_path("VNCORENLP_DIR", "notebooks/vncorenlp_model"),
     )

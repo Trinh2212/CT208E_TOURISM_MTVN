@@ -103,7 +103,7 @@ export default function SearchPage() {
                 <button
                   className="button primary"
                   onClick={() => {
-                    state.clearFilters();
+                    state.exploreAll();
                   }}
                 >
                   Khám phá tất cả
@@ -114,7 +114,7 @@ export default function SearchPage() {
                 <PlaceCard
                   key={place.place_id}
                   place={place}
-                  rank={index + 1}
+                  rank={place.rank ?? index + 1}
                   selected={state.selectedId === place.place_id}
                   onSelect={() => select(place.place_id, "card")}
                   cardRef={(element) => {

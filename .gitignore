@@ -16,14 +16,14 @@ yarn-error.log*
 **/.venv/
 venv/
 ENV/
-# Environment Variables / Credentials
+# biến môi trường
 **/.env
 **/.env.*
 !**/.env.example
-# Dataset (Giữ lại thư mục rỗng qua .gitkeep)
+# Dataset
 dataset/*
 !dataset/.gitkeep
-# IDE & System Files (Windows / Mac / VS Code)
+
 .vscode/
 .idea/
 *.swp
@@ -31,3 +31,5 @@ dataset/*
 .DS_Store
 Thumbs.db
 Desktop.ini
+# pipeline
+docs/

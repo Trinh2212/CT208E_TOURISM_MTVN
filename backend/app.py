@@ -9,21 +9,25 @@ from werkzeug.exceptions import HTTPException
 from backend.config import load_settings
 from backend.database import DatabaseConnectionError, MongoConnection
 from backend.routes.api import api
+from backend.services.search import SearchService
 from backend.services.tourism import DataIntegrityError
 
 
-def create_app(settings=None, *, database=None):
+def create_app(settings=None, *, database=None, search_service=None):
     """Tạo và cấu hình Flask app.
 
-    Nạp cấu hình, khởi tạo kết nối MongoDB lazy, đăng ký blueprint API
-    và các error handler trả JSON thống nhất. Tham số ``settings`` và
-    ``database`` cho phép test truyền mock thay vì kết nối thật.
+    Nạp cấu hình, khởi tạo kết nối MongoDB lazy và SearchService lazy, đăng ký
+    blueprint API và các error handler trả JSON thống nhất. Tham số ``settings``,
+    ``database`` và ``search_service`` cho phép test truyền mock thay vì kết nối thật.
     """
     app = Flask(__name__, static_folder=None)
     app.json.ensure_ascii = False
     app.config["SETTINGS"] = settings if settings is not None else load_settings()
     connection = MongoConnection(app.config["SETTINGS"], database=database)
     app.extensions["mongodb"] = connection
+    app.extensions["search"] = (
+        search_service if search_service is not None else SearchService(app.config["SETTINGS"])
+    )
     atexit.register(connection.close)
     app.register_blueprint(api)
 

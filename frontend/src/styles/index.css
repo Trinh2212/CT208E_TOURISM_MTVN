@@ -285,6 +285,25 @@ img {
   color: #999bb0;
   font-size: 15px;
 }
+.query-clear-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border-radius: 50%;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+.query-clear-button:hover {
+  background: #edf5fc;
+  color: var(--ink);
+}
+.query-clear-button svg {
+  width: 16px;
+  height: 16px;
+}
 .image-query,
 .add-image {
   height: 46px;
@@ -395,6 +414,9 @@ img {
   height: 46px;
   padding: 8px 16px;
   font-size: 17px;
+}
+.search-button:disabled {
+  cursor: not-allowed;
 }
 .search-button svg {
   width: 21px;
@@ -693,6 +715,54 @@ img {
 .explore-label {
   font-size: 12px;
   color: #737373;
+}
+.score-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.match-score {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: #e8f6ff;
+  color: #006cde;
+  font-size: 12px;
+  font-weight: 600;
+}
+.snippet-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid #cbe4fb;
+  background: #f5faff;
+  color: #006cde;
+}
+.snippet-toggle:hover,
+.snippet-toggle.active {
+  background: #0083fa;
+  border-color: #0083fa;
+  color: white;
+}
+.snippet-toggle svg {
+  width: 14px;
+  height: 14px;
+}
+.matched-snippet {
+  margin-top: 10px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border-left: 3px solid var(--blue);
+  background: #f6fbff;
+  color: #263147;
+  font-size: 12.5px;
+  line-height: 1.5;
+  cursor: default;
 }
 .main-map {
   position: relative;

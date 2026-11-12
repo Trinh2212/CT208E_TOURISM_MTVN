@@ -1,0 +1,1878 @@
+[
+  {
+    "faiss_id": 0,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T001",
+    "text_snippet": "Bến Ninh Kiều là một bến nước và địa danh du lịch, văn hóa của thành phố Cần Thơ, nằm ở bờ phải sông Hậu, tại ngã ba sông Hậu và sông Cần Thơ, tiếp giáp đường Hai Bà Trưng."
+  },
+  {
+    "faiss_id": 1,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T002",
+    "text_snippet": "Bến Ninh Kiều có công viên và đường đi dạo dọc bờ kè ven sông Hậu. Công viên có cây xanh, thảm cỏ, các dãy ghế nghỉ dọc bến sông và hệ thống chiếu sáng vào ban đêm."
+  },
+  {
+    "faiss_id": 2,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T003",
+    "text_snippet": "Tại công viên Bến Ninh Kiều, du khách có thể đi dạo, ngắm sông, quan sát tàu thuyền và chụp ảnh."
+  },
+  {
+    "faiss_id": 3,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T004",
+    "text_snippet": "Trong công viên Bến Ninh Kiều có tượng Chủ tịch Hồ Chí Minh đặt trên bệ. Tượng là điểm nhấn mang ý nghĩa văn hóa và tưởng niệm."
+  },
+  {
+    "faiss_id": 4,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T005",
+    "text_snippet": "Cầu đi bộ Ninh Kiều, còn được gọi là cầu Tình Yêu, nối khu bến với cồn Cái Khế. Cầu uốn cong hình chữ S, có hai đài sen và hệ thống đèn chiếu sáng về đêm. Du khách có thể đi bộ, ngắm cảnh và chụp ảnh trên cầu."
+  },
+  {
+    "faiss_id": 5,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T006",
+    "text_snippet": "Du thuyền xuất phát từ khu bến Ninh Kiều đem lại trải nghiệm ngắm cảnh sông và thành phố từ mặt nước. Du khách cũng có thể dùng bữa trên tàu nhà hàng gắn với khu bến."
+  },
+  {
+    "faiss_id": 6,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T007",
+    "text_snippet": "Du khách có thể thưởng thức đờn ca tài tử tại Bến Ninh Kiều. Trên du thuyền xuất phát từ khu bến, du khách còn có thể nghe cải lương trong trải nghiệm dùng bữa và ngắm cảnh sông về đêm."
+  },
+  {
+    "faiss_id": 7,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T008",
+    "text_snippet": "Tại chợ đêm Ninh Kiều, du khách có thể tham quan, mua sắm đồ lưu niệm, quần áo và trải nghiệm ăn uống."
+  },
+  {
+    "faiss_id": 8,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T009",
+    "text_snippet": "Tại chợ đêm Ninh Kiều có các món ăn, trong đó có bánh da lợn, bánh ít (còn gọi là bánh ích), cơm cháy kho quẹt, lẩu rắn, lẩu mắm, pizza hủ tiếu và lẩu cá tra."
+  },
+  {
+    "faiss_id": 9,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T010",
+    "text_snippet": "Tại chợ đêm Ninh Kiều, du khách có thể thưởng thức các món ăn vặt như bánh tráng nướng, há cảo, trái cây dầm và đồ chiên. Các quán ở chợ cũng bày bán đồ nướng hải sản từ chiều tối."
+  },
+  {
+    "faiss_id": 10,
+    "place_id": "CT_CT001",
+    "place_name": "Bến Ninh Kiều",
+    "desc_id": "CT_CT001_T011",
+    "text_snippet": "Bến Ninh Kiều là nơi tổ chức các sự kiện văn hóa như lễ hội hoa đăng, lễ hội bánh xèo và lễ hội đờn ca tài tử."
+  },
+  {
+    "faiss_id": 11,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T001",
+    "text_snippet": "Chợ nổi Cái Răng là chợ trên sông tại thành phố Cần Thơ, nơi giao thương nông sản và thể hiện nếp sống gắn với sông nước. Người dân buôn bán trên ghe thuyền, có người còn sinh sống ngay trên thuyền. Chợ họp từ sáng sớm, khoảng 4–5 giờ sáng; du khách có thể ngắm cảnh chợ trong ánh bình minh."
+  },
+  {
+    "faiss_id": 12,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T002",
+    "text_snippet": "Tại chợ nổi Cái Răng, du khách có thể thưởng thức đờn ca tài tử trên những thuyền chở đoàn nghệ nhân biểu diễn vào dịp cuối tuần hoặc theo lịch chương trình, tour. Hoạt động này gắn với không gian sông nước, không phải chương trình có trên mọi chuyến tham quan."
+  },
+  {
+    "faiss_id": 13,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T003",
+    "text_snippet": "Nhiều ghe bán nông sản ở chợ nổi Cái Răng dựng cây bẹo, là cây sào treo hàng mẫu để người mua nhận biết từ xa ghe bán mặt hàng gì. Những ghe bán đồ ăn, nước uống hoặc dịch vụ thường không dùng cây bẹo giới thiệu nông sản theo cách này."
+  },
+  {
+    "faiss_id": 14,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T004",
+    "text_snippet": "Du khách có thể ngồi ghe hoặc thuyền di chuyển giữa các ghe hàng tại chợ nổi Cái Răng để tham quan, quan sát hoạt động mua bán, vận chuyển và trao đổi hàng hóa của người dân."
+  },
+  {
+    "faiss_id": 15,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T005",
+    "text_snippet": "Tại chợ nổi Cái Răng, du khách có thể mua trái cây theo mùa trên ghe, như sầu riêng, chôm chôm, măng cụt, xoài, khóm, bưởi, cam, quýt, vú sữa, dưa hấu, nhãn và dừa. Trái cây có thể được mua theo phần hoặc theo cân để thưởng thức trên thuyền hoặc mang về; chợ còn có các mặt hàng như khô cá, mắm cá linh, mắm cá lóc, bánh tét, bánh ít và bánh lá dừa."
+  },
+  {
+    "faiss_id": 16,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T006",
+    "text_snippet": "Ăn sáng trên ghe thuyền là một trải nghiệm tại chợ nổi Cái Răng. Du khách có thể gọi món từ những ghe bán đồ ăn trong chợ, thưởng thức các món như hủ tiếu, phở, bún riêu cua hoặc bún cá ngay trên thuyền và quan sát những ghe khác trên sông."
+  },
+  {
+    "faiss_id": 17,
+    "place_id": "CT_CT002",
+    "place_name": "Chợ Nổi Cái Răng",
+    "desc_id": "CT_CT002_T007",
+    "text_snippet": "Du khách tham quan chợ nổi Cái Răng có thể thưởng thức cà phê, trong đó có cà phê kho, ngay trên ghe. Trong không gian chợ trên sông còn có các món bánh xèo, bánh tét lá cẩm và bánh mì kẹp thịt nướng."
+  },
+  {
+    "faiss_id": 18,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T001",
+    "text_snippet": "Nhà cổ Bình Thủy tại Cần Thơ gắn với dòng họ Dương, thể hiện sự giao thoa giữa kiến trúc Pháp và cách bài trí truyền thống Việt Nam. Mặt tiền mang phong cách phương Tây, trong khi nội thất và gian thờ giữ dấu ấn văn hóa phương Đông."
+  },
+  {
+    "faiss_id": 19,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T002",
+    "text_snippet": "Mặt tiền Nhà cổ Bình Thủy có hàng cửa vòm, cột và phù điêu hoa văn đắp nổi. Nền nhà cao hơn mặt sân, trần cao; hai lối cầu thang vòng cung phía trước dẫn từ sân lên hiên và sảnh nhà."
+  },
+  {
+    "faiss_id": 20,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T003",
+    "text_snippet": "Bên ngoài Nhà cổ Bình Thủy có cổng và hàng rào sắt với các trụ bê tông. Trong sân còn có cổng mái ngói với bốn trụ, trang trí hình hoa lá và các hình tượng trên mái; cổng mang biển “Phủ thờ họ Dương”."
+  },
+  {
+    "faiss_id": 21,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T004",
+    "text_snippet": "Nhà cổ Bình Thủy có cấu trúc năm gian hai chái, với các phần nhà trước, nhà giữa và nhà sau. Nhà trước và nhà giữa được ngăn bằng hệ bao lam, liên ba bằng gỗ; bên trong có nền gạch hoa văn, gian thờ ở vị trí trung tâm cùng không gian tiếp khách và sinh hoạt."
+  },
+  {
+    "faiss_id": 22,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T005",
+    "text_snippet": "Trong Nhà cổ Bình Thủy, các cột gỗ được đặt trên chân bệ đá. Hệ bao lam, hoành phi, câu đối, bàn thờ và đồ gỗ có nhiều chi tiết chạm khắc, khảm xà cừ, sơn son thếp vàng; hoa văn có các hình tượng tứ linh, tứ quý và hoa lá."
+  },
+  {
+    "faiss_id": 23,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T006",
+    "text_snippet": "Nhà cổ Bình Thủy lưu giữ nhiều đồ cổ, trong đó có bộ bàn ghế cẩm thạch từ Vân Nam, bộ salon đời Louis XV của Pháp, các bình gốm sứ, chén rượu và đèn. Bộ sưu tập phản ánh sự giao lưu văn hóa Đông–Tây trong đời sống gia đình ở Nam Bộ."
+  },
+  {
+    "faiss_id": 24,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T007",
+    "text_snippet": "Khuôn viên Nhà cổ Bình Thủy có sân lát gạch, cây cảnh, hòn non bộ và vườn lan. Nhiều cây lan được ươm trồng, chăm sóc phía sau nhà; du khách có thể dạo trong khu vườn và ngắm hoa lan, cây cảnh gắn với không gian nhà cổ."
+  },
+  {
+    "faiss_id": 25,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T008",
+    "text_snippet": "Du khách đến Nhà cổ Bình Thủy có thể khám phá kiến trúc bên ngoài và nội thất, xem đồ cổ và chụp ảnh theo phong cách hoài cổ. Những ảnh, tư liệu trưng bày trong nhà giúp tìm hiểu lịch sử dòng họ Dương."
+  },
+  {
+    "faiss_id": 26,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T009",
+    "text_snippet": "Nhà cổ Bình Thủy từng được sử dụng làm bối cảnh phim, trong đó có “Người tình” (L’Amant) năm 1992 của đạo diễn Jean-Jacques Annaud. Trong nhà có các ảnh lưu niệm và tư liệu liên quan đến đoàn làm phim."
+  },
+  {
+    "faiss_id": 27,
+    "place_id": "CT_CT003",
+    "place_name": "Nhà Cổ Bình Thủy",
+    "desc_id": "CT_CT003_T010",
+    "text_snippet": "Tại Nhà cổ Bình Thủy có hoạt động biểu diễn đờn ca tài tử trong không gian bên trong nhà cổ."
+  },
+  {
+    "faiss_id": 28,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T001",
+    "text_snippet": "Làng du lịch Mỹ Khánh kết hợp không gian miệt vườn, các hoạt động trải nghiệm và văn hóa Nam Bộ. Trong khuôn viên, vườn cây ăn trái được bố trí xen với nhà cổ và các dãy kênh, tạo nên cảnh quan gắn với đời sống sông nước miền Tây."
+  },
+  {
+    "faiss_id": 29,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T002",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh, du khách có thể dạo vườn, hái và thưởng thức trái cây theo mùa ngay tại vườn. Các loại cây trái gồm chôm chôm, sầu riêng, nhãn, dâu da, táo, ổi, xoài, mít, măng cụt và dâu Hạ Châu; loại trái có thể thưởng thức phụ thuộc thời điểm trong năm."
+  },
+  {
+    "faiss_id": 30,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T003",
+    "text_snippet": "Nhà cổ Nam Bộ trong Làng du lịch Mỹ Khánh có bố cục ba gian hai chái và mái lợp ngói âm dương. Du khách có thể tham quan để tìm hiểu kiến trúc, phong tục và nếp sống Nam Bộ xưa."
+  },
+  {
+    "faiss_id": 31,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T004",
+    "text_snippet": "Vườn hoa Mỹ Khánh được giới thiệu có hơn 30 loài hoa, gồm các loài từ miền Tây, Sa Đéc và Đà Lạt, là không gian để ngắm hoa, thư giãn và chụp ảnh."
+  },
+  {
+    "faiss_id": 32,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T005",
+    "text_snippet": "Đường trượt phao khô, còn được gọi là thảm trượt cầu vồng, là trò chơi có mặt dốc nhiều màu tại Làng du lịch Mỹ Khánh. Đường trượt có điểm xuất phát cao đến 20 m và chiều dài hơn 160 m; người chơi ngồi trên phao để trượt từ trên cao xuống theo đường dốc."
+  },
+  {
+    "faiss_id": 33,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T006",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh có các chương trình đua heo và đua chó để khách đứng xem bên đường đua. Đua chó có các chướng ngại vật và địa hình mô phỏng đồi dốc."
+  },
+  {
+    "faiss_id": 34,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T007",
+    "text_snippet": "Chương trình xiếc khỉ tại Làng du lịch Mỹ Khánh có các tiết mục như khỉ đi xe đạp, đi thăng bằng, xay lúa và giã gạo. Khách xem biểu diễn theo các suất của chương trình."
+  },
+  {
+    "faiss_id": 35,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T008",
+    "text_snippet": "Khu trò chơi dân gian dưới nước của Làng du lịch Mỹ Khánh có cầu lắc, cầu khỉ, thử giữ thăng bằng trên khúc gỗ, zipline vượt hồ và máng trượt xuống nước. Các trò cầu dây yêu cầu người chơi bám dây để di chuyển qua mặt nước. Du khách còn có thể thử vượt cầu phao bằng cách bước trên các tấm phao nổi xếp thành lối qua mặt hồ."
+  },
+  {
+    "faiss_id": 36,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T009",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh, du khách còn có thể tham gia các trò chơi dân gian như đạp xe qua cầu ván, bịt mắt đập niêu, đi cà kheo, leo dây và vượt chướng ngại vật."
+  },
+  {
+    "faiss_id": 37,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T010",
+    "text_snippet": "Trò “Rung chuông vàng” tại Làng du lịch Mỹ Khánh là thử thách vượt chướng ngại và giữ thăng bằng để tiến tới chạm chuông."
+  },
+  {
+    "faiss_id": 38,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T011",
+    "text_snippet": "Làng du lịch Mỹ Khánh có hoạt động chèo xuồng trên kênh, rạch trong khu du lịch và bơi xuồng, đạp vịt trên hồ để ngắm cảnh miệt vườn. Còn có các trò đua xuồng ba lá và bơi xuồng bắt vịt."
+  },
+  {
+    "faiss_id": 39,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T012",
+    "text_snippet": "Trong trải nghiệm tát mương bắt cá ở Làng du lịch Mỹ Khánh, du khách mặc trang phục bà ba và lội xuống mương để bắt cá theo cách làm truyền thống của người dân miền Tây."
+  },
+  {
+    "faiss_id": 40,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T013",
+    "text_snippet": "Du khách có thể nghe đờn ca tài tử Nam Bộ tại Làng du lịch Mỹ Khánh. Các chương trình biểu diễn xiếc và ảo thuật được tổ chức vào một số khung giờ trong ngày hoặc dịp lễ."
+  },
+  {
+    "faiss_id": 41,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T014",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh có các hoạt động giới thiệu nghề và ẩm thực truyền thống như làm bánh dân gian, nấu rượu và tìm hiểu quy trình làm hủ tiếu thủ công. Những hoạt động này gắn với chương trình trải nghiệm văn hóa trong ngày hoặc dịp lễ."
+  },
+  {
+    "faiss_id": 42,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T015",
+    "text_snippet": "Làng du lịch Mỹ Khánh có chương trình hóa thân thành chủ điền Tây Đô, giúp du khách trải nghiệm một ngày theo phong cách sinh hoạt truyền thống."
+  },
+  {
+    "faiss_id": 43,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T016",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh, khách có thể tham quan mô hình nuôi yến và khu tinh chế yến sào, tìm hiểu các công đoạn làm sạch, lựa chọn tổ yến và chưng yến cùng các sản phẩm từ yến sào."
+  },
+  {
+    "faiss_id": 44,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T017",
+    "text_snippet": "Làng du lịch Mỹ Khánh có trải nghiệm cho cá chép bú bình: khách dùng bình đưa thức ăn cho cá và quan sát cá tụ lại trên mặt nước."
+  },
+  {
+    "faiss_id": 45,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T018",
+    "text_snippet": "Ở khu massage cá của Làng du lịch Mỹ Khánh, khách ngồi bên bể và ngâm chân trong nước có cá nhỏ bơi quanh."
+  },
+  {
+    "faiss_id": 46,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T019",
+    "text_snippet": "Khu nuôi cá sấu tại Làng du lịch Mỹ Khánh có hoạt động câu cá sấu, trong đó du khách dùng cần đưa mồi xuống khu nước nuôi cá sấu."
+  },
+  {
+    "faiss_id": 47,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T020",
+    "text_snippet": "Vườn thú hoang dã trong Làng du lịch Mỹ Khánh được xây dựng theo mô hình sinh thái mở, với các khu nuôi được bao quanh bởi cây xanh, hồ nước và cỏ. Các loài được giới thiệu gồm hươu, nai, đà điểu, trăn, khỉ, công, chim trĩ và các loài chim nhiệt đới; khu tham quan còn có khu bò sát, cá sấu, động vật hoang dã bản địa miền Tây, khu thú nhỏ và vườn chim. Du khách có thể tản bộ dưới bóng cây, nghe tiếng chim, quan sát khỉ chuyền cành, voi tắm bùn và tìm hiểu tập tính, nguồn gốc, cách chăm sóc các loài qua bảng thông tin. Tại khu thú nhỏ và vườn chim, trẻ em có thể quan sát và cho động vật ăn."
+  },
+  {
+    "faiss_id": 48,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T021",
+    "text_snippet": "Khu “18 tầng địa ngục” tại Làng du lịch Mỹ Khánh tái hiện bằng mô hình các hình phạt theo quan niệm dân gian, gắn với nội dung về nhân quả và hậu quả của hành động."
+  },
+  {
+    "faiss_id": 49,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T022",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh, du khách có thể thưởng thức các loại bánh truyền thống, trong đó có bánh xèo miền Tây, bánh ít, bánh da lợn, bánh bò thốt nốt, bánh lá dừa và bánh chuối hấp. Còn có hoạt động trình diễn làm bánh thủ công để tìm hiểu văn hóa ẩm thực địa phương."
+  },
+  {
+    "faiss_id": 50,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T023",
+    "text_snippet": "Tại Làng du lịch Mỹ Khánh, du khách có thể đi bộ trên cầu có mặt sàn kính trong suốt và lan can trắng, giữa không gian nhiều cây xanh."
+  },
+  {
+    "faiss_id": 51,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T024",
+    "text_snippet": "Làng du lịch Mỹ Khánh có khu go-kart để du khách trải nghiệm điều khiển xe; khu vực khách lên xe có mái che."
+  },
+  {
+    "faiss_id": 52,
+    "place_id": "CT_CT004",
+    "place_name": "Làng Du Lịch Mỹ Khánh",
+    "desc_id": "CT_CT004_T025",
+    "text_snippet": "Điểm “Cầu vồng chạm mây” tại Làng du lịch Mỹ Khánh có cầu thang nhiều màu dẫn lên khung hình trái tim, nằm cạnh mương nước và cây xanh. Du khách có thể tạo dáng, chụp ảnh trên các bậc thang."
+  },
+  {
+    "faiss_id": 53,
+    "place_id": "CT_ST001",
+    "place_name": "Khu Căn Cứ Rừng Tràm Mỹ Phước",
+    "desc_id": "CT_ST001_T001",
+    "text_snippet": "Được bao bọc bởi hệ thống kênh rạch và cây cối. Đây là điểm tham quan kết hợp tìm hiểu lịch sử kháng chiến với khám phá cảnh quan rừng tràm."
+  },
+  {
+    "faiss_id": 54,
+    "place_id": "CT_ST001",
+    "place_name": "Khu Căn Cứ Rừng Tràm Mỹ Phước",
+    "desc_id": "CT_ST001_T002",
+    "text_snippet": "Khu phục dựng các hạng mục di tích gồm Nhà thường trực, Hội trường Tỉnh ủy, nhà ăn, hầm trú ẩn, hồ chứa nước ngọt, Ban Giao liên, Ban Cơ yếu, Văn phòng Tỉnh ủy, nhà làm việc Chánh Văn phòng Tỉnh ủy và Ban Kinh tài. Các nhà làm việc, hội trường và hầm trú ẩn giúp người tham quan hình dung không gian sinh hoạt, làm việc của cán bộ trong thời kỳ kháng chiến."
+  },
+  {
+    "faiss_id": 55,
+    "place_id": "CT_ST001",
+    "place_name": "Khu Căn Cứ Rừng Tràm Mỹ Phước",
+    "desc_id": "CT_ST001_T003",
+    "text_snippet": "Khu trung tâm hành chính có đền tưởng niệm, cổng tam quan, nhà bia, nhà sinh hoạt thanh thiếu niên và phòng trưng bày, cùng nhà điều hành và nhà công vụ. Các công trình này nằm trong quần thể khu căn cứ, bên cạnh khu vực phục dựng di tích dưới tán rừng."
+  },
+  {
+    "faiss_id": 56,
+    "place_id": "CT_ST001",
+    "place_name": "Khu Căn Cứ Rừng Tràm Mỹ Phước",
+    "desc_id": "CT_ST001_T004",
+    "text_snippet": "Giao thoa giữa rừng tràm và rừng dừa nước, cùng hệ thống kênh rạch và thảm thực vật ngập nước. Ngoài cây tràm, còn có lục bình, bông súng và các loài cây sống trong môi trường ngập nước, tạo nên cảnh quan rừng và mặt nước quanh khu căn cứ."
+  },
+  {
+    "faiss_id": 57,
+    "place_id": "CT_ST001",
+    "place_name": "Khu Căn Cứ Rừng Tràm Mỹ Phước",
+    "desc_id": "CT_ST001_T005",
+    "text_snippet": "Du khách có thể đi dạo dưới tán tràm, nghe kể chuyện về lịch sử kháng chiến và chụp ảnh trong không gian rừng. Trải nghiệm ngắm chim, cò về trú ngụ, đặc biệt vào lúc hoàng hôn, cùng những góc chụp ảnh áo bà ba, khăn rằn giữa cây xanh."
+  },
+  {
+    "faiss_id": 58,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T001",
+    "text_snippet": "Ngôi chùa Phật giáo Nam tông Khmer là nơi sinh hoạt văn hóa của cộng đồng Khmer. Lối từ cổng vào có hàng cây sao che bóng; trong khuôn viên có cây xanh và hoa kiểng, tạo không gian đi dạo, tham quan kiến trúc và tìm hiểu đời sống văn hóa, tín ngưỡng Khmer."
+  },
+  {
+    "faiss_id": 59,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T002",
+    "text_snippet": "Cổng tam quan Chùa Som Rong có năm ngọn tháp tượng trưng cho núi Meru trong quan niệm Phật giáo. Các mảng phù điêu rắn thần Naga, chim thần Krud và hoa văn Khmer được phủ nhũ vàng kết hợp hồng nhạt, tạo điểm nhấn trên các vòm cổng."
+  },
+  {
+    "faiss_id": 60,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T003",
+    "text_snippet": "Bảo tháp Chùa Som Rong nằm gần lối vào, có màu trắng xám, bốn mặt với bốn lối đi lên, bảy tầng thu nhỏ dần và phần bệ ba tầng. Tượng Phật Thích Ca Mâu Ni tọa trên đài sen nằm ở trung tâm; quanh tháp có hoa sen cách điệu, dây leo, hoa văn lửa và hình thiên thần."
+  },
+  {
+    "faiss_id": 61,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T004",
+    "text_snippet": "Chánh điện Chùa Som Rong nằm đối diện bảo tháp, bên trái lối đi vào, Công trình nổi bật với sắc nâu đỏ, vàng và hệ mái ngói cao; các cột trụ trang trí hoa văn Khmer, tường có tranh kể chuyện về Đức Phật và đời sống. Trên đỉnh phía trước chánh điện là hình Đức Phật Đản sanh bước đi trên tòa sen."
+  },
+  {
+    "faiss_id": 62,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T005",
+    "text_snippet": "Nhà hội Sala Chùa Som Rong gồm hai tầng với nhiều lớp mái và các tháp nhọn trên đỉnh. Cầu thang trang trí hình thần rồng, áp mái có rắn thần Naga, vũ nữ và chim thần Krud; ở trung tâm là tượng Phật Thích Ca Mâu Ni ban phước ngự trên thần rắn chín đầu. Sala là nơi giảng dạy, học giáo lý, tụng kinh, cầu nguyện và tổ chức sinh hoạt cộng đồng, lễ hội của người Khmer."
+  },
+  {
+    "faiss_id": 63,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T006",
+    "text_snippet": "Trong khuôn viên Chùa Som Rong có tượng Phật Thích Ca nhập Niết bàn ở tư thế nằm nghiên với hai màu chủ đạo là trắng và xanh nhạt. Dưới tượng là những gian rộng dành cho sinh hoạt, hội họp và học tập của tăng sinh. Khu tượng là nơi du khách thăm viếng, cầu bình an và chụp ảnh."
+  },
+  {
+    "faiss_id": 64,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T007",
+    "text_snippet": "Vào dịp Chol Chnam Thmay, Tết cổ truyền của người Khmer giữa tháng 4 dương lịch, Chùa Som Rong tổ chức các nghi lễ chào đón năm mới, múa hát truyền thống và trò chơi dân gian như ném còn, kéo co, bịt mắt bắt dê. Đây là dịp tìm hiểu sinh hoạt cộng đồng và văn hóa đón năm mới tại chùa."
+  },
+  {
+    "faiss_id": 65,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T008",
+    "text_snippet": "Dịp Ok Om Bok vào ngày 15 tháng 10 âm lịch, Chùa Som Rong có nghi thức cúng trăng để tạ ơn thần Mặt Trăng cho mùa vụ. Các hoạt động trong dịp lễ gồm múa truyền thống, trình diễn nhạc cụ dân gian, diễn dù kê, thi cờ ốc, thả đèn gió, thả đèn nước và đua ghe ngo."
+  },
+  {
+    "faiss_id": 66,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T009",
+    "text_snippet": "Lễ Kathina tại Chùa Som Rong là dịp dâng bông, dâng y cà sa, gắn với việc tạo công đức của Phật tử và sự sẻ chia trong cộng đồng Khmer."
+  },
+  {
+    "faiss_id": 67,
+    "place_id": "CT_ST002",
+    "place_name": "Chùa Som Rong",
+    "desc_id": "CT_ST002_T010",
+    "text_snippet": "Dịp Sene Dolta tại Chùa Som Rong là thời gian người Khmer tưởng nhớ tổ tiên, với các nghi lễ thờ cúng và hát múa truyền thống. Hoạt động mang ý nghĩa tri ân, gắn kết gia đình và cộng đồng trong đời sống văn hóa Khmer."
+  },
+  {
+    "faiss_id": 68,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T001",
+    "text_snippet": "Vùng cù lao có các vườn cây ăn trái xen nhà dân và hệ thống kênh rạch. Cồn có dáng bầu dục, hai đầu thon và phần giữa phình rộng, được ví với hình trái cà na. Cảnh quan sông nước bao quanh và những lối đi rợp bóng cây tạo không gian tham quan miệt vườn trên cồn."
+  },
+  {
+    "faiss_id": 69,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T002",
+    "text_snippet": "Các nhà vườn trên Cồn Mỹ Phước trồng nhiều loại trái cây nhiệt đới, trong đó có nhãn lồng, sầu riêng, chôm chôm, măng cụt, mãng cầu, bưởi, xoài, chuối và dừa. Ngoài ra còn có hồng xiêm, đu đủ, mít, cam, quýt và vú sữa. Những vườn cây có tán lá che bóng và lối đi nhỏ dưới gốc; vào mùa thu hoạch, trái sai trên cành tạo điểm nhấn cho cảnh quan miệt vườn."
+  },
+  {
+    "faiss_id": 70,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T003",
+    "text_snippet": "Du khách đến Cồn Mỹ Phước có thể ghé các nhà vườn, đi bộ dưới tán cây, tự tay hái và thưởng thức trái cây ngay tại vườn. Chụp ảnh cùng những cành sai quả, trên lối nhỏ hoặc dưới gốc cây là một phần của trải nghiệm tham quan; loại trái cây có thể thưởng thức gắn với mùa thu hoạch của từng vườn."
+  },
+  {
+    "faiss_id": 71,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T004",
+    "text_snippet": "Trải nghiệm đi xuồng đưa du khách qua các kênh rạch quanh co giữa vườn cây, ngắm hàng dừa, nhà dân và sinh hoạt đi lại, vận chuyển hàng bằng ghe xuồng. Du khách có thể nghe người chèo xuồng kể chuyện đời sống, phong tục trên cồn, chụp ảnh sông nước và thử chèo khi được phép. Những cầu khỉ bắc qua mương, rạch trong vườn cũng là nơi đi bộ và chụp ảnh."
+  },
+  {
+    "faiss_id": 72,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T005",
+    "text_snippet": "Du khách có thể đăng ký các hoạt động trải nghiệm đời sống xứ cồn như thả lưới, đặt lờ, dỡ chà bắt cá và hái rau. Các trải nghiệm được giới thiệu còn có bơi xuồng hái bần, thụt cá bống sao và lịch, mò chem chép, tắm sông."
+  },
+  {
+    "faiss_id": 73,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T006",
+    "text_snippet": "Bên cạnh trồng cây ăn trái, Còn phát triển nghề nuôi ong lấy mật. Du khách có thể tham quan các trại ong xen giữa không gian nhà vườn để tìm hiểu thêm một hoạt động sản xuất của người dân trên cồn."
+  },
+  {
+    "faiss_id": 74,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T007",
+    "text_snippet": "Trong các hoạt động trải nghiệm tại Cồn Mỹ Phước, du khách có thể tham gia làm bánh dân gian và nghe đờn ca tài tử Nam Bộ với những làn điệu gắn với sinh hoạt văn hóa miệt vườn."
+  },
+  {
+    "faiss_id": 75,
+    "place_id": "CT_ST003",
+    "place_name": "Cồn Mỹ Phước",
+    "desc_id": "CT_ST003_T008",
+    "text_snippet": "Ẩm thực trong chuyến tham quan Cồn Mỹ Phước có các món dân dã mang hương vị xứ cồn, trong đó có cá lóc luộc hèm, canh chua cá ngát nấu bần và ốc luộc nước dừa chấm cơm mẻ. Việc thưởng thức những món ăn này gắn với trải nghiệm đời sống miệt vườn tại cồn, bên cạnh hoạt động hái và ăn trái cây ngay tại nhà vườn."
+  },
+  {
+    "faiss_id": 76,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T001",
+    "text_snippet": "không gian sông nước nơi các nhánh sông tỏa về bảy ngả. Ghe xuồng từ các hướng tụ về mua bán trên mặt nước; người đi chợ và khách tham quan di chuyển bằng ghe giữa những thuyền hàng."
+  },
+  {
+    "faiss_id": 77,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T002",
+    "text_snippet": "Chợ nổi Ngã Bảy có hoạt động mua sỉ và bán lẻ nông sản, trái cây, cá tươi, gia cầm, đồ gia dụng, chiếu và hàng thủ công mỹ nghệ. Trái cây thay đổi theo mùa, trong đó có xoài, bưởi, dưa hấu, chôm chôm, măng cụt và sầu riêng; khách có thể mua mang về hoặc thưởng thức ngay trên ghe."
+  },
+  {
+    "faiss_id": 78,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T003",
+    "text_snippet": "Cây bẹo là dấu hiệu nhận biết hàng hóa trên ghe, người bán treo một ít sản phẩm lên cây sào cao để người mua nhìn từ xa biết ghe bán gì. Xen giữa những thuyền hàng lớn còn có các ghe nhỏ bán đồ ăn, thức uống."
+  },
+  {
+    "faiss_id": 79,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T004",
+    "text_snippet": "Trên các ghe, du khách có thể thưởng thức những món như cháo lòng, hủ tiếu, bún, bún riêu, bún nước lèo, bánh canh, phở, bánh cuốn nóng và bánh tét, cùng cà phê hoặc nước ngọt. Việc dùng món trên ghe, xuồng dập dìu mặt nước gắn với những câu chuyện của người buôn bán; trải nghiệm ngồi xuồng ba lá còn được nghe hò, vọng cổ."
+  },
+  {
+    "faiss_id": 80,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T005",
+    "text_snippet": "Bánh xèo ở chợ nổi Ngã Bảy được giới thiệu với lớp vỏ giòn, nhân thịt, tôm và giá, chế biến tại chỗ trước mặt khách. Bún nước lèo ăn cùng rau sống, ngò rí và gia vị là một món khác trong trải nghiệm thưởng thức ẩm thực ngay trên ghe."
+  },
+  {
+    "faiss_id": 81,
+    "place_id": "CT_HG001",
+    "place_name": "Chợ Nổi Ngã Bảy",
+    "desc_id": "CT_HG001_T006",
+    "text_snippet": "Vào dịp lễ, Tết, chợ nổi Ngã Bảy có thêm các ghe bán hoa kiểng như mai vàng, vạn thọ và bonsai. Những ghe hoa bổ sung sắc màu cho hoạt động mua bán theo dịp trên sông."
+  },
+  {
+    "faiss_id": 82,
+    "place_id": "CT_HG002",
+    "place_name": "Công Viên Ánh Sáng Kỳ Quan Thế Giới",
+    "desc_id": "CT_HG002_T001",
+    "text_snippet": "Có đài phun nước lớn ở vị trí trung tâm, bao quanh là bảy công trình mô phỏng các kỳ quan thế giới cổ đại. Các mô hình được làm từ thạch cao và bê tông, tạo thành một không gian tham quan các công trình kiến trúc và tượng gắn với những nền văn minh cổ đại."
+  },
+  {
+    "faiss_id": 83,
+    "place_id": "CT_HG002",
+    "place_name": "Công Viên Ánh Sáng Kỳ Quan Thế Giới",
+    "desc_id": "CT_HG002_T002",
+    "text_snippet": "Du khách có thể chiêm ngưỡng mô hình tượng thần Zeus ở Olympia, Đại kim tự tháp Giza, tượng thần Mặt Trời Rhodes, lăng mộ Mausolus, hải đăng Alexandria, Vườn treo Babylon và đền Artemis. Khu mô phỏng kim tự tháp Giza còn có tượng Nhân sư, tạo thành nhóm công trình gợi nhắc kiến trúc Ai Cập cổ đại."
+  },
+  {
+    "faiss_id": 84,
+    "place_id": "CT_HG002",
+    "place_name": "Công Viên Ánh Sáng Kỳ Quan Thế Giới",
+    "desc_id": "CT_HG002_T003",
+    "text_snippet": "Có hệ thống nhạc nước kết hợp đèn chiếu sáng, phục vụ những buổi trình diễn nghệ thuật đa sắc màu bên các mô hình kỳ quan. Mô hình hải đăng Alexandria cũng được trang bị hệ thống đèn, góp phần tạo nên cảnh quan ánh sáng của khuôn viên."
+  },
+  {
+    "faiss_id": 85,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T001",
+    "text_snippet": "Khu du lịch Vinh Sang kết hợp không gian miệt vườn với các trải nghiệm sinh hoạt sông nước miền Tây. Trong khu có vườn cây ăn trái cùng các trò chơi dân gian và trò giải trí trên cỏ, trên mặt nước."
+  },
+  {
+    "faiss_id": 86,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T002",
+    "text_snippet": "Du khách tại Khu du lịch Vinh Sang có thể tham quan vườn, tự tay hái và thưởng thức trái cây ngay tại gốc. Các loại cây ăn trái trong vườn có mận, chôm chôm, nhãn, dâu da, xoài, cóc, ổi, sầu riêng và măng cụt. Trải nghiệm vào vườn gắn với vé riêng; vé vườn cây ăn trái thay đổi theo mùa và thời giá."
+  },
+  {
+    "faiss_id": 87,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T003",
+    "text_snippet": "Tát mương bắt cá tại Khu du lịch Vinh Sang cho du khách trải nghiệm sinh hoạt của người nông dân miền Tây: mặc áo bà ba, xắn quần và lội mương tìm bắt cá. Sau hoạt động bắt cá, du khách có thể thưởng thức cá lóc nướng trui bên bờ hồ, ăn cùng rau sống và nước chấm tỏi ớt."
+  },
+  {
+    "faiss_id": 88,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T004",
+    "text_snippet": "Các trò giải trí tại Khu du lịch Vinh Sang gồm trượt cỏ, đạp vịt hoặc đạp thuyền thiên nga, lăn bóng nước và đi dây dưới nước. Đây là những cách vui chơi kết hợp không gian trên cỏ với các hoạt động trên hồ trong khuôn viên."
+  },
+  {
+    "faiss_id": 89,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T005",
+    "text_snippet": "Tại khu vui chơi của Vinh Sang, du khách có thể tham gia trải nghiệm câu cá sấu trong khu nuôi và cưỡi đà điểu. Hai hoạt động này bổ sung trải nghiệm với động vật bên cạnh các trò chơi trên cỏ và mặt nước."
+  },
+  {
+    "faiss_id": 90,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T006",
+    "text_snippet": "Trong khu vui chơi của Vinh Sang, du khách có thể chèo xuồng trên hồ và tham gia trò thuyền thúng bắt vịt. Hoạt động thuyền thúng kết hợp việc chèo trên mặt nước với tìm bắt vịt trong không gian hồ của khu du lịch."
+  },
+  {
+    "faiss_id": 91,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T007",
+    "text_snippet": "Khu du lịch Vinh Sang còn có trải nghiệm chèo thuyền trên sông Cổ Chiên, gắn với không gian sông nước miền Tây."
+  },
+  {
+    "faiss_id": 92,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T008",
+    "text_snippet": "Du khách đến Khu du lịch Vinh Sang có thể nghe đờn ca tài tử Nam Bộ trong khuôn viên. Trải nghiệm âm nhạc này bổ sung nét văn hóa miền Tây bên cạnh tham quan vườn và vui chơi."
+  },
+  {
+    "faiss_id": 93,
+    "place_id": "VL_VL001",
+    "place_name": "Khu Du Lịch Vinh Sang",
+    "desc_id": "VL_VL001_T009",
+    "text_snippet": "Ẩm thực tại Khu du lịch Vinh Sang còn có các sản vật miền Tây như cá linh và bông điên điển."
+  },
+  {
+    "faiss_id": 94,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T001",
+    "text_snippet": "Lò gạch Mang Thít gắn với làng nghề gạch, gốm đỏ lâu đời ở Vĩnh Long, có lịch sử hơn một thế kỷ. Các cụm lò và nhà xưởng nằm dọc hệ thống sông nước trong vùng, gắn với sông Cổ Chiên và sông Mang Thít, tạo nên cảnh quan làng nghề kết hợp giao thương đường thủy."
+  },
+  {
+    "faiss_id": 95,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T002",
+    "text_snippet": "Nét kiến trúc nổi bật của Lò gạch Mang Thít là những lò nung hình vòm, thân xây bằng gạch với sắc đỏ cam và bề mặt lưu dấu thời gian, ám khói. Những mái lò nối tiếp nhau cùng các dãy nhà xưởng tạo nên không gian đặc trưng của nghề gạch, gốm truyền thống."
+  },
+  {
+    "faiss_id": 96,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T003",
+    "text_snippet": "Tại làng nghề Mang Thít, du khách có thể tìm hiểu quy trình sản xuất gạch từ lấy đất sét, trộn đất, tạo hình bằng khuôn, phơi nắng đến nung trong lò. Quy trình thủ công được giới thiệu có công đoạn tạo hình bằng khuôn gỗ và thời gian nung khoảng 7–10 ngày."
+  },
+  {
+    "faiss_id": 97,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T004",
+    "text_snippet": "Trải nghiệm làm gạch thủ công ở Mang Thít cho du khách tham gia các bước chuẩn bị đất sét, trộn đất, đưa đất vào khuôn và tạo hình viên gạch dưới sự hướng dẫn. Hoạt động này giúp người tham quan tìm hiểu thao tác và công sức của người làm nghề."
+  },
+  {
+    "faiss_id": 98,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T005",
+    "text_snippet": "Bến gạch ven sông là một phần của cảnh quan làng nghề Mang Thít, với ghe thuyền vận chuyển gạch giữa các lò và đường sông. Hoạt động sản xuất trong xưởng, tiếng máy và khói lò kết hợp với việc bốc chuyển hàng tạo nên nhịp sinh hoạt của một làng nghề gắn với giao thương sông nước."
+  },
+  {
+    "faiss_id": 99,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T006",
+    "text_snippet": "Du khách có thể đi bộ hoặc đạp xe theo các đường nhỏ quanh làng gạch Mang Thít, ngắm các lò nung và cảnh quan ven đường. Khi dừng tại các cơ sở, khách có thể tìm hiểu nghề và trò chuyện với người dân, chủ lò về lịch sử làng nghề cùng những câu chuyện gia đình gắn với việc làm gạch, gốm."
+  },
+  {
+    "faiss_id": 100,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T007",
+    "text_snippet": "Những dãy lò gạch và cảnh sông nước ở Mang Thít là bối cảnh để du khách tham quan, chụp ảnh. Vào hoàng hôn, ánh sáng phản chiếu trên sông Cổ Chiên và chiếu lên các mái lò tạo thêm góc nhìn về màu gạch và không gian làng nghề."
+  },
+  {
+    "faiss_id": 101,
+    "place_id": "VL_VL002",
+    "place_name": "Lò Gạch Mang Thít",
+    "desc_id": "VL_VL002_T008",
+    "text_snippet": "Trong phạm vi điểm tham quan Lò gạch Mang Thít còn có những ngôi nhà bằng gốm để du khách khám phá và chụp ảnh, bổ sung một cách thể hiện chất liệu gốm bên cạnh các lò nung truyền thống."
+  },
+  {
+    "faiss_id": 102,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T001",
+    "text_snippet": "Khu du lịch Cồn Phụng là điểm du lịch sinh thái trên một cù lao giữa sông Tiền. Không gian tham quan gắn với cảnh quan sông nước, các rạch nhỏ có dừa nước và trải nghiệm miệt vườn, cùng hoạt động tìm hiểu nghề truyền thống và sinh hoạt văn hóa miền Tây."
+  },
+  {
+    "faiss_id": 103,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T002",
+    "text_snippet": "Tại Cồn Phụng, khách có thể đi xuồng ba lá len lỏi giữa những con rạch có dừa nước, ngắm cảnh làng quê và trò chuyện với người dân địa phương. Xe ngựa cũng là một phương tiện được giới thiệu để dạo quanh, tham quan làng nghề và tìm hiểu nếp sống trong hành trình khám phá Cồn Phụng."
+  },
+  {
+    "faiss_id": 104,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T003",
+    "text_snippet": "Cồn Phụng có xưởng sản xuất kẹo dừa để khách tìm hiểu các công đoạn pha chế, nấu, cắt kẹo và đóng gói. Khách có thể thưởng thức kẹo dừa và mua sản phẩm làm quà, kết hợp trải nghiệm ẩm thực với việc quan sát nghề chế biến truyền thống."
+  },
+  {
+    "faiss_id": 105,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T004",
+    "text_snippet": "Tại Cồn Phụng, khách có thể ghé thăm các gia đình làm nghề nuôi ong lấy mật. Ong tại đây được giới thiệu chủ yếu lấy mật từ hoa nhãn; mật ong cũng là sản phẩm có thể mua làm quà khi tìm hiểu nghề nuôi ong."
+  },
+  {
+    "faiss_id": 106,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T005",
+    "text_snippet": "Cồn Phụng có hoạt động biểu diễn đờn ca tài tử trong các ngôi nhà mái lá và trên bè tre giữa mặt nước. Trong không gian nhà lá, khách có thể nghỉ ngơi và thưởng thức trái cây miệt vườn khi nghe biểu diễn, kết hợp trải nghiệm âm nhạc với sinh hoạt sông nước miền Tây."
+  },
+  {
+    "faiss_id": 107,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T006",
+    "text_snippet": "Tát mương bắt cá là một trải nghiệm dân gian tại Cồn Phụng. Khách có thể mặc áo bà ba, khăn rằn và xuống mương bắt cá lóc, tham gia hoạt động tập thể mô phỏng công việc của người dân vùng sông nước."
+  },
+  {
+    "faiss_id": 108,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T007",
+    "text_snippet": "Khu du lịch Cồn Phụng có khu vực nuôi cá sấu và hoạt động trải nghiệm câu cá sấu tại trại nuôi. Đây là một hoạt động được giới thiệu cùng các trải nghiệm vui chơi trong khu du lịch."
+  },
+  {
+    "faiss_id": 109,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T008",
+    "text_snippet": "Ngoài các trải nghiệm dân gian, Cồn Phụng còn có hoạt động team building, đạp xe dạo quanh đảo và chụp ảnh tại các tiểu cảnh sông nước. Các hoạt động này kết hợp vui chơi theo nhóm với việc khám phá cảnh quan của khu du lịch."
+  },
+  {
+    "faiss_id": 110,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T009",
+    "text_snippet": "Bảo tàng Dừa Bến Tre tại Cồn Phụng có khu nhà sử dụng chất liệu từ dừa và các vật dụng được làm từ dừa. Những hiện vật được nêu gồm bàn ghế, ấm trà, đàn nhị và đàn bầu, giúp khách tìm hiểu cách sử dụng cây dừa trong đồ dùng và nhạc cụ."
+  },
+  {
+    "faiss_id": 111,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T010",
+    "text_snippet": "Sau khi tham quan và vui chơi tại Cồn Phụng, khách có thể thưởng thức các món dân dã như cá tai tượng chiên xù, lẩu mắm, bánh xèo và tép rang dừa."
+  },
+  {
+    "faiss_id": 112,
+    "place_id": "VL_BT001",
+    "place_name": "Khu Du Lịch Cồn Phụng",
+    "desc_id": "VL_BT001_T011",
+    "text_snippet": "Xôi chiên phồng tại Cồn Phụng được làm từ nếp, chiên tạo thành khối phồng với lớp vỏ màu vàng. Món ăn được giới thiệu dùng kèm thịt gà hoặc chả giò, là một trải nghiệm ẩm thực gắn với chuyến tham quan khu du lịch."
+  },
+  {
+    "faiss_id": 113,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T001",
+    "text_snippet": "Khu du lịch Làng Bè là điểm du lịch sinh thái ven sông, được thiết kế như một làng quê Nam Bộ thu nhỏ. Tên Làng Bè gắn với nghề nuôi cá bè truyền thống của người dân địa phương, thể hiện mối liên hệ giữa đời sống nơi đây với sông nước."
+  },
+  {
+    "faiss_id": 114,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T002",
+    "text_snippet": "Cảnh quan Làng Bè gồm những hàng dừa, con rạch nhỏ, đường làng, trảng cỏ và các ngôi nhà tranh mái lá bên mép nước. Những chiếc cầu khỉ và vườn cây ăn trái đi cùng không gian ven sông, tạo nên các khu vực để dạo chơi, ngắm cảnh và chụp ảnh."
+  },
+  {
+    "faiss_id": 115,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T003",
+    "text_snippet": "Các trò chơi giữ thăng bằng tại Làng Bè gồm đi cầu lắc, đi cầu khỉ, đu dây đơn, đu dây nhóm và chạy xe qua cầu khỉ. Khách có thể thử vượt các lối đi hẹp hoặc dây qua mặt nước, kết hợp thử thách cá nhân với hoạt động theo nhóm."
+  },
+  {
+    "faiss_id": 116,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T004",
+    "text_snippet": "Tát mương bắt cá tại Làng Bè là trải nghiệm mặc áo bà ba, lội xuống mương, dùng gáo tát nước và bắt cá lóc, cá trê. Hoạt động được giới thiệu gắn với việc chế biến cá bắt được ngay tại chỗ, kết hợp vui chơi dân gian với trải nghiệm ẩm thực."
+  },
+  {
+    "faiss_id": 117,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T005",
+    "text_snippet": "Làng Bè còn có các trò chơi tập thể như bắt vịt, nhảy bao bố, kéo co, cùng hoạt động làm trái nổ bằng đất sét và quấn kèn bằng lá. Các trải nghiệm này gắn với trò chơi và sinh hoạt truyền thống của người dân miền Tây."
+  },
+  {
+    "faiss_id": 118,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T006",
+    "text_snippet": "Khách đến Làng Bè có thể chèo xuồng ba lá trên những con rạch nhỏ, câu cá hoặc nghỉ dưới bóng dừa để ngắm cảnh sông nước. Việc giao lưu với người dân địa phương và nghe những câu chuyện về nghề nuôi cá bè cũng là một nội dung tìm hiểu văn hóa, đời sống trong chuyến tham quan."
+  },
+  {
+    "faiss_id": 119,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T007",
+    "text_snippet": "Tại Làng Bè, khách có thể thuê áo dài, áo bà ba và những trang phục, phụ kiện như khăn rằn, nón lá để chụp ảnh giữa khung cảnh nhà lá, hàng dừa và sông nước. Trải nghiệm mặc trang phục truyền thống cũng gắn với các hoạt động vui chơi và đi xuồng trong khu du lịch."
+  },
+  {
+    "faiss_id": 120,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T008",
+    "text_snippet": "Vườn trái cây tại Làng Bè có các loại được giới thiệu như chôm chôm, sầu riêng, măng cụt, bưởi da xanh, quýt và nhãn. Hoạt động hái và thưởng thức trái cây tại vườn gắn với mùa trái chín, được giới thiệu trong khoảng tháng 6 đến tháng 8; khách cũng có thể mua trái cây làm quà."
+  },
+  {
+    "faiss_id": 121,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T009",
+    "text_snippet": "Nhà hàng trong Khu du lịch Làng Bè phục vụ các món đặc sản miền Tây, trong đó có cá tai tượng chiên xù và cá lóc nướng trui. Cá tai tượng chiên xù được giới thiệu dùng với bánh tráng, rau sống và nước mắm chua ngọt, gắn việc dùng bữa với chuyến tham quan khu du lịch."
+  },
+  {
+    "faiss_id": 122,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T010",
+    "text_snippet": "Các món gà tại Làng Bè được giới thiệu gồm gà nướng lu và gà nướng muối ớt. Gà nướng lu được tẩm ướp gia vị rồi nướng trong lu đất."
+  },
+  {
+    "faiss_id": 123,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T011",
+    "text_snippet": "Nhà hàng Làng Bè có các món lẩu như lẩu mắm và lẩu tôm càng. Lẩu mắm được giới thiệu với hương vị mắm cá linh, kết hợp các loại rau đồng và hải sản."
+  },
+  {
+    "faiss_id": 124,
+    "place_id": "VL_BT002",
+    "place_name": "Khu Du Lịch Làng Bè",
+    "desc_id": "VL_BT002_T012",
+    "text_snippet": "Ẩm thực tại Làng Bè còn có những món gắn với cây dừa và sản vật Bến Tre, trong đó có gỏi củ hủ dừa, cơm dừa, tôm hấp nước dừa, chè dừa, kẹo dừa và đuông dừa. Các món này được giới thiệu trong trải nghiệm ăn uống tại khu du lịch và nhà hàng của Làng Bè."
+  },
+  {
+    "faiss_id": 125,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T001",
+    "text_snippet": "Sân chim Vàm Hồ là điểm du lịch sinh thái gắn với rừng ngập mặn và không gian ven sông Ba Lai. Khu vực có kênh rạch, bãi bồi và thảm thực vật nhiều tầng, tạo nơi trú ngụ, kiếm ăn và sinh sản cho chim nước, chim rừng cùng các loài động vật hoang dã."
+  },
+  {
+    "faiss_id": 126,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T002",
+    "text_snippet": "Thảm thực vật ở Sân chim Vàm Hồ gồm các loài cây thích nghi với đất ngập nước và vùng ven sông như chà là, đước, gừa, bần, tra, mắm và dừa nước; bên dưới có lau sậy, ô rô. Những tầng cây đan xen tạo nơi làm tổ, ẩn náu và nguồn thức ăn cho chim."
+  },
+  {
+    "faiss_id": 127,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T003",
+    "text_snippet": "Du khách đến Sân chim Vàm Hồ có thể quan sát chim trong môi trường tự nhiên và lắng nghe tiếng chim giữa các tán rừng. Việc quan sát cần giữ khoảng cách phù hợp, di chuyển nhẹ và tránh tiến sát nơi chim đậu hoặc làm tổ. Số lượng chim xuất hiện thay đổi theo mùa, thời tiết, mực nước và thời điểm trong ngày."
+  },
+  {
+    "faiss_id": 128,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T004",
+    "text_snippet": "Tại Sân chim Vàm Hồ, du khách có thể đi xuồng len lỏi qua những cánh rừng, dạo bộ dưới tán cây và trên cầu tre, hoặc nghỉ trên võng giữa bóng lá. Khi đi bộ, khách có thể quan sát cảnh rừng và tìm hiểu cách cây thích nghi với môi trường ven sông; lối đi chịu ảnh hưởng của thời tiết và điều kiện đất ngập nước."
+  },
+  {
+    "faiss_id": 129,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T005",
+    "text_snippet": "Hành trình tham quan rừng ở Sân chim Vàm Hồ còn gắn với khu căn cứ cách mạng địa phương, nơi từng nuôi giấu các đoàn quân trong thời kỳ kháng chiến. Du khách có thể tìm hiểu những dấu tích lịch sử nằm trong không gian rừng, kết hợp với quan sát hệ sinh thái ngập mặn."
+  },
+  {
+    "faiss_id": 130,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T006",
+    "text_snippet": "Khu nông trại du lịch tại Sân chim Vàm Hồ có các trò chơi và trải nghiệm như đi dây qua hồ, đi cầu khỉ, đạp xích lô mini, đánh đu và tát mương bắt cá. Du khách có thể mặc áo bà ba, khăn rằn để tham gia các hoạt động mang nét sinh hoạt nông thôn Nam Bộ."
+  },
+  {
+    "faiss_id": 131,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T007",
+    "text_snippet": "Trong khu nông trại của Sân chim Vàm Hồ, du khách có thể tham quan vườn cây ăn trái, thưởng thức trái cây tại vườn và mua mang về làm quà; các loại được nguồn giới thiệu có bưởi, mít, đu đủ và mãng cầu xiêm. Khu vực còn có vườn rau để tham quan."
+  },
+  {
+    "faiss_id": 132,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T008",
+    "text_snippet": "Sân chim Vàm Hồ có trải nghiệm đi tàu trên sông Ba Lai để ngắm cảnh hai bên bờ, cùng hoạt động ngắm bình minh và hoàng hôn bên sông."
+  },
+  {
+    "faiss_id": 133,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T009",
+    "text_snippet": "Sau khi tham quan và vui chơi tại Sân chim Vàm Hồ, du khách có thể thưởng thức những món ăn Nam Bộ, trong đó có bánh xèo, cá kho tộ, bông điên điển nấu canh, lẩu mắn, canh chua cá lóc, mắm tép thịt ba chỉ, cá lòng tong chiên khoai và các loại bánh dân gian."
+  },
+  {
+    "faiss_id": 134,
+    "place_id": "VL_BT003",
+    "place_name": "Sân Chim Vàm Hồ",
+    "desc_id": "VL_BT003_T010",
+    "text_snippet": "Ẩm thực được giới thiệu tại Sân chim Vàm Hồ còn có cơm ăn với mắm cá linh và trái bần, cùng dừa nước tươi thưởng thức tại chỗ. Đây là những hương vị dân dã gắn với sản vật miền sông nước."
+  },
+  {
+    "faiss_id": 135,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T001",
+    "text_snippet": "Ao Bà Om, còn gọi là Ao Vuông, là một thắng cảnh gắn với đời sống văn hóa của cộng đồng Khmer ở Trà Vinh. Không gian chính gồm mặt ao nước ngọt gần vuông, bờ đất và vành cây cổ thụ bao quanh."
+  },
+  {
+    "faiss_id": 136,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T002",
+    "text_snippet": "Ven Ao Bà Om là những hàng cây sao, cây dầu lâu năm. Qua thời gian, nhiều bộ rễ trồi cao, uốn lượn và đan vào nhau trên nền đất, tạo thành những hình khối tự nhiên đặc trưng dưới tán cây râm mát."
+  },
+  {
+    "faiss_id": 137,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T003",
+    "text_snippet": "Mặt ao thường phẳng lặng, phản chiếu hàng cây ven bờ. Tùy thời điểm, sen và súng phủ từng mảng mặt nước; lối đất men theo bờ cùng thảm cỏ và rừng cây tạo nên cảnh quan xanh, yên tĩnh."
+  },
+  {
+    "faiss_id": 138,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T004",
+    "text_snippet": "Du khách có thể đi bộ quanh bờ ao, nghỉ dưới tán cây, ngắm các gốc rễ cổ thụ, chụp ảnh hoặc tổ chức dã ngoại nhẹ. Những lối đi ven nước và khoảng đất dưới hàng cây tạo nhiều góc quan sát cảnh quan của Ao Bà Om."
+  },
+  {
+    "faiss_id": 139,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T005",
+    "text_snippet": "Ao Bà Om là nơi diễn ra các dịp sinh hoạt cộng đồng và lễ hội của người Khmer tại Trà Vinh, trong đó có Chôl Chnăm Thmây, Sene Đolta và Oóc Om Bóc. Vào những dịp này, không gian quanh ao trở nên đông vui với các hoạt động văn hóa truyền thống."
+  },
+  {
+    "faiss_id": 140,
+    "place_id": "VL_TV001",
+    "place_name": "Ao Bà Om",
+    "desc_id": "VL_TV001_T006",
+    "text_snippet": "Lễ Oóc Om Bóc thường diễn ra vào dịp rằm tháng 10 âm lịch, khi người dân và du khách tập trung quanh Ao Bà Om để tham gia múa hát, trò chơi dân gian và các hoạt động lễ hội. Buổi tối có hoạt động thả đèn gió, tạo nên khung cảnh rực sáng quanh mặt ao."
+  },
+  {
+    "faiss_id": 141,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T001",
+    "text_snippet": "Chùa Âng, còn có tên Ang Korajaborey, là ngôi chùa Phật giáo Nam Tông Khmer ở Trà Vinh, gắn với quần thể danh thắng Ao Bà Om. Khuôn viên chùa gồm chính điện, sa la, tăng xá và các tháp, là nơi thờ tự và sinh hoạt văn hóa, tinh thần của cộng đồng Khmer trong vùng."
+  },
+  {
+    "faiss_id": 142,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T002",
+    "text_snippet": "Khuôn viên Chùa Âng có nhiều cây sao, cây dầu cổ thụ cùng các khoảng sân và lối đi dưới tán cây. Hào nước bao quanh khu chính điện và những công trình khác, tạo nên cảnh quan mặt nước xen giữa kiến trúc chùa và cây xanh."
+  },
+  {
+    "faiss_id": 143,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T003",
+    "text_snippet": "Cổng Chùa Âng và các công trình trong khuôn viên được trang trí bằng tượng thần, tượng chằn, tiên nữ, chim thần và hoa văn mang bản sắc Khmer Nam Bộ. Dọc hành lang chính điện có các tượng tiên nữ Keyno, kết hợp với những vòm cửa và chi tiết trang trí dưới diềm mái."
+  },
+  {
+    "faiss_id": 144,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T004",
+    "text_snippet": "Chính điện Chùa Âng có mặt bằng hình chữ nhật, nằm trên nền cao khoảng 2 m với hành lang bao quanh. Hệ mái khung gỗ lợp ngói gồm ba cấp, hai cấp trên cao và dốc; diềm mái có các chi tiết trang trí uốn cong. Bên trong có 12 cột gỗ quý trang trí hình rồng, sơn son thếp vàng."
+  },
+  {
+    "faiss_id": 145,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T005",
+    "text_snippet": "Bệ thờ trong chính điện Chùa Âng thờ Phật Thích Ca theo truyền thống Phật giáo Nam Tông. Tượng Phật chính cao khoảng 2,1 m, xung quanh có khoảng 50 tượng Phật lớn nhỏ bằng đá hoặc gỗ, tạo thành không gian thờ tự với nhiều tác phẩm điêu khắc."
+  },
+  {
+    "faiss_id": 146,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T006",
+    "text_snippet": "Tường và trần chính điện Chùa Âng có các bức tranh kể về cuộc đời Phật Thích Ca. Bốn bức bích họa lớn trên trần thể hiện các giai đoạn đản sanh, xuất gia, đắc đạo và nhập niết bàn, bổ sung nội dung Phật giáo cho không gian kiến trúc và thờ tự."
+  },
+  {
+    "faiss_id": 147,
+    "place_id": "VL_TV002",
+    "place_name": "Chùa Âng",
+    "desc_id": "VL_TV002_T007",
+    "text_snippet": "Chùa Âng là nơi cộng đồng Khmer tu học, thực hành tín ngưỡng và tổ chức các lễ truyền thống như Chôl Chnăm Thmây, Sêne Đôlta và Oóc Om Bóc. Vào các dịp lễ, người dân và du khách đến chiêm bái, tham quan; chùa còn có các lễ Phật đản, nhập hạ và xuất hạ gắn với đời sống tu học của tăng chúng."
+  },
+  {
+    "faiss_id": 148,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T001",
+    "text_snippet": "Biển Ba Động là bãi biển có dải cát kéo dài từ ấp Nhà Mát đến ấp Cồn Trứng. Nằm trong vùng biển chịu ảnh hưởng của phù sa, bãi cát nơi đây không trắng muốt và nước biển thường không trong xanh như nhiều bãi biển khác."
+  },
+  {
+    "faiss_id": 149,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T002",
+    "text_snippet": "Dọc Biển Ba Động có những hàng phi lao và các động cát, với những lối mòn để du khách tản bộ dưới hàng cây. Khu ven biển có bờ kè, nhà hàng và dãy ghế bố nhìn ra mặt nước; du khách có thể nghỉ chân, đón gió biển, ngắm bình minh hoặc hoàng hôn và những thuyền đánh cá phía xa."
+  },
+  {
+    "faiss_id": 150,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T003",
+    "text_snippet": "Từ bờ Biển Ba Động, du khách có thể ngắm và chụp ảnh cánh đồng điện gió ngoài biển. Những tua-bin cao nối với nhau bằng tuyến cầu có lan can màu vàng tạo thành một công trình nổi bật giữa không gian biển rộng."
+  },
+  {
+    "faiss_id": 151,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T004",
+    "text_snippet": "Các hoạt động vui chơi trên biển được giới thiệu tại Ba Động gồm tắm biển, cưỡi mô tô nước và phao kéo."
+  },
+  {
+    "faiss_id": 152,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T005",
+    "text_snippet": "Bãi biển Ba Động có không gian để du khách thả diều, đặc biệt vào mùa gió. Hoạt động này diễn ra trên bãi cát thoáng rộng, kết hợp ngắm biển và tận hưởng gió ven bờ."
+  },
+  {
+    "faiss_id": 153,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T006",
+    "text_snippet": "Du khách đến Biển Ba Động có thể cắm trại trên bãi biển và tổ chức tiệc BBQ hải sản cùng gia đình, bạn bè. Trải nghiệm này gắn với không gian ngoài trời bên biển, tiếng sóng và sinh hoạt quây quần tại khu cắm trại."
+  },
+  {
+    "faiss_id": 154,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T007",
+    "text_snippet": "Tại các quán ăn gần Biển Ba Động, du khách có thể thưởng thức hải sản, trong đó có tôm, cua, ghẹ, mực, cá nướng và gỏi hải sản."
+  },
+  {
+    "faiss_id": 155,
+    "place_id": "VL_TV003",
+    "place_name": "Biển Ba Động",
+    "desc_id": "VL_TV003_T008",
+    "text_snippet": "Tại Biển Ba Động, du khách có thể tìm hiểu nghề đóng đáy hàng khơi và tham gia hoạt động đánh bắt hải sản trên biển."
+  },
+  {
+    "faiss_id": 156,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T001",
+    "text_snippet": "Khu du lịch Xẻo Quýt kết hợp tham quan cảnh quan rừng tràm với tìm hiểu lịch sử kháng chiến. Nơi đây từng là nơi hội họp, làm việc và sinh hoạt của Tỉnh ủy cùng các ban ngành tỉnh Kiến Phong trong cuộc kháng chiến chống Mỹ, đồng thời là điểm đến cho các hoạt động về nguồn."
+  },
+  {
+    "faiss_id": 157,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T002",
+    "text_snippet": "Trong khu di tích Xẻo Quýt, du khách có thể tham quan Hội trường Tỉnh ủy, nhà làm việc của đơn vị văn thư, công sự chiến đấu, công sự tránh bom, hầm bí mật và bãi ngù – tử địa. Khu trưng bày được giới thiệu là bảo tàng mini, lưu giữ hiện vật, ảnh tư liệu giai đoạn 1960–1975 và bản đồ căn cứ."
+  },
+  {
+    "faiss_id": 158,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T003",
+    "text_snippet": "Rừng tràm Xẻo Quýt có những thân cây cao được dây bòng bong và các loại dây leo phủ quanh, tạo thành những khối chóp xanh san sát. Những con rạch len lỏi giữa thảm thực vật ngập nước. Động vật tại đây gồm nhiều loài chim, cá, bò sát và thú, trong đó có trăn mốc, rắn hổ trâu, rùa hộp, chim sả mỏ rộng và rái cá thường."
+  },
+  {
+    "faiss_id": 159,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T004",
+    "text_snippet": "Du khách có thể đi bộ theo những lối nhỏ dưới tán rừng hoặc ngồi xuồng ba lá len qua các con rạch ở Xẻo Quýt. Người chèo xuồng địa phương đưa khách tham quan và giới thiệu lịch sử, cảnh quan; cộng đồng địa phương và các nhân chứng cũng tham gia kể những câu chuyện gắn với khu di tích. Vào mùa nước nổi, trải nghiệm bằng xuồng gắn với cảnh rừng ngập nước."
+  },
+  {
+    "faiss_id": 160,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T005",
+    "text_snippet": "Xẻo Quýt có các hồ nước, ao sen và những khu vực trồng sen lá lớn. Du khách có thể ngắm hoa, chụp ảnh và dạo quanh không gian mặt nước; khu dã ngoại còn có cầu khỉ, các chòi lá và cảnh quan đồng quê."
+  },
+  {
+    "faiss_id": 161,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T006",
+    "text_snippet": "Tháp canh tại Xẻo Quýt được giới thiệu cao 18 m, là điểm để du khách lên quan sát toàn cảnh rừng tràm từ trên cao."
+  },
+  {
+    "faiss_id": 162,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T007",
+    "text_snippet": "Tại khu du lịch Xẻo Quýt, du khách có thể tham gia những hoạt động dân dã như chèo xuồng, đua xuồng, giăng lưới, quăng hoặc gỡ chài, bắt vịt và câu cá. Khu dã ngoại còn có các hoạt động cắm trại, đốt lửa trại gắn với không gian sông nước và cây xanh."
+  },
+  {
+    "faiss_id": 163,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T008",
+    "text_snippet": "Ở khu bến thuyền Xẻo Quýt, người dân địa phương đan giỏ, giới thiệu và bán sản phẩm thủ công cho khách tham quan. Du khách có thể xem cách làm hoặc tập đan giỏ, kệ bằng lục bình phơi khô, tìm hiểu một nghề thủ công gắn với đời sống miền sông nước."
+  },
+  {
+    "faiss_id": 164,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T009",
+    "text_snippet": "Khu ẩm thực và nhà hàng tại Xẻo Quýt phục vụ các món dân dã, trong đó có cá lóc nướng trui, cá lóc nướng sen, chuột đồng nướng lu, lươn đồng nấu chua và lẩu cá linh. Du khách có thể dùng bữa sau khi tham quan, kết hợp nghỉ ngơi trong không gian khu du lịch."
+  },
+  {
+    "faiss_id": 165,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T010",
+    "text_snippet": "Đến Xẻo Quýt, du khách có thể thưởng thức và giao lưu đờn ca tài tử, trong đó có trải nghiệm nghe biểu diễn khi dùng bữa. Trong chuyến tham quan bằng thuyền, khách còn có thể nghe những câu hò và tiếng đờn ca tài tử bên sông."
+  },
+  {
+    "faiss_id": 166,
+    "place_id": "DT_DT001",
+    "place_name": "Khu Du Lịch Xẻo Quýt",
+    "desc_id": "DT_DT001_T011",
+    "text_snippet": "Sau chuyến tham quan Xẻo Quýt, du khách có thể mua những sản vật được giới thiệu tại khu du lịch như mật ong rừng tràm và cá khô để làm quà."
+  },
+  {
+    "faiss_id": 167,
+    "place_id": "DT_DT002",
+    "place_name": "Làng Hoa Sa Đéc",
+    "desc_id": "DT_DT002_T001",
+    "text_snippet": "Làng hoa Sa Đéc ở Đồng Tháp là làng nghề trồng hoa có hơn 100 năm tuổi. Nghề trồng hoa gắn với sinh hoạt và lao động của các hộ dân tại đây."
+  },
+  {
+    "faiss_id": 168,
+    "place_id": "DT_DT002",
+    "place_name": "Làng Hoa Sa Đéc",
+    "desc_id": "DT_DT002_T002",
+    "text_snippet": "Nét đặc trưng của các vườn hoa Sa Đéc là cây được trồng trên giàn cao, phía dưới là nước từ những con rạch len vào vườn. Người làm vườn lội nước hoặc chèo xuồng giữa các hàng hoa để chăm sóc và thu hoạch, tạo nên không gian canh tác gắn với sông nước."
+  },
+  {
+    "faiss_id": 169,
+    "place_id": "DT_DT002",
+    "place_name": "Làng Hoa Sa Đéc",
+    "desc_id": "DT_DT002_T003",
+    "text_snippet": "Tại Làng hoa Sa Đéc, các hộ dân trồng nhiều loại hoa kiểng dọc hai bên đường. Những loại hoa kiểng ở đây gồm cúc mâm xôi, cúc tiger, cúc đồng tiền, dạ yến thảo, cát tường, vạn thọ, hoa mười giờ, hoa dừa, đại phú, chiều tím và liễu hồng."
+  },
+  {
+    "faiss_id": 170,
+    "place_id": "DT_DT002",
+    "place_name": "Làng Hoa Sa Đéc",
+    "desc_id": "DT_DT002_T004",
+    "text_snippet": "Vào tháng Chạp âm lịch, đặc biệt những ngày cận Tết Nguyên Đán, hoạt động thu hoạch và vận chuyển hoa tại Làng hoa Sa Đéc diễn ra nhộn nhịp. Đây là dịp tham quan gắn với mùa hoa phục vụ Tết và quan sát công việc của người trồng hoa."
+  },
+  {
+    "faiss_id": 171,
+    "place_id": "DT_DT002",
+    "place_name": "Làng Hoa Sa Đéc",
+    "desc_id": "DT_DT002_T005",
+    "text_snippet": "Làng hoa Sa Đéc gắn với Festival Hoa – Kiểng Sa Đéc được tổ chức định kỳ với quy mô lớn và các lễ hội hoa Xuân đón Tết."
+  },
+  {
+    "faiss_id": 172,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T001",
+    "text_snippet": "Vườn quốc gia Tràm Chim cảnh quan đất ngập nước. Từ một vùng trũng ngập nước tự nhiên, nơi đây được quy hoạch thành khu bảo tồn, gồm rừng tràm, đồng cỏ ngập nước và các kênh rạch. Tên gọi Tràm Chim gắn với cây tràm và các loài chim sinh sống trong khu vực."
+  },
+  {
+    "faiss_id": 173,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T002",
+    "text_snippet": "Hệ thực vật ở Tràm Chim có cây tràm, sen, súng, lục bình, nhĩ cán vàng, thủy nữ ấn và các loài cỏ thủy sinh. Những sinh cảnh này là nơi sống của nhiều loài chim nước, cá, lưỡng cư và bò sát; sếu đầu đỏ được xem là biểu tượng của vườn."
+  },
+  {
+    "faiss_id": 174,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T003",
+    "text_snippet": "Đi thuyền kéo hoặc xuồng ba lá là cách khám phá những con kênh len giữa rừng tràm, các đầm sen và bông súng ở Tràm Chim. Trong mùa nước nổi, hành trình còn có lựa chọn đi tắc ráng, một loại thuyền máy nhỏ. Dọc đường, du khách có thể quan sát chim trên mặt nước và tán cây, nghe tiếng chim và cảm nhận mùi hương của tràm."
+  },
+  {
+    "faiss_id": 175,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T004",
+    "text_snippet": "Tháp quan sát, đài vọng cảnh tại Tràm Chim mở ra góc nhìn từ trên cao xuống cánh đồng ngập nước và rừng tràm. Du khách có thể quan sát cò trắng, vịt trời, cồng cộc cùng các loài chim nước khác. Cảnh rừng lúc bình minh, hoàng hôn và những đàn chim cũng là chủ đề chụp ảnh trong hành trình tham quan."
+  },
+  {
+    "faiss_id": 176,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T005",
+    "text_snippet": "Cảnh quan Tràm Chim thay đổi theo mùa: vào mùa nước nổi, nước lan trên đồng và đầm, xen sắc sen, súng cùng những đàn chim tụ về. Mùa khô là dịp có cơ hội quan sát, chụp ảnh sếu đầu đỏ."
+  },
+  {
+    "faiss_id": 177,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T006",
+    "text_snippet": "Hoa hoàng đầu ấn ở Tràm Chim thường tạo thành những thảm vàng từ tháng 12 đến tháng 2, với khoảng hoa nở trong ngày từ 11 giờ đến 14 giờ. Du khách có thể ngắm hoa bằng xuồng máy, tắc ráng kết hợp đi bộ băng đồng."
+  },
+  {
+    "faiss_id": 178,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T007",
+    "text_snippet": "Các trải nghiệm tìm hiểu đời sống cư dân tại Tràm Chim gồm tự chèo xuồng ba lá, câu cá, giăng lưới, học đặt lờ, đặt lợp, đặt trúm và tìm hiểu cách giăng bẫy chuột đồng, nuôi tôm càng xanh trong rừng tràm. Theo mùa vụ, du khách còn được giới thiệu hoạt động làm đồng, thu hoạch lúa trời, còn gọi là lúa ma, và hái bông điên điển mùa nước nổi."
+  },
+  {
+    "faiss_id": 179,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T008",
+    "text_snippet": "Trong hành trình tham quan Tràm Chim, du khách có thể nghe đờn ca tài tử Nam Bộ qua các chương trình giao lưu văn hóa, kết hợp tìm hiểu nếp sống của cư dân miền sông nước."
+  },
+  {
+    "faiss_id": 180,
+    "place_id": "DT_DT003",
+    "place_name": "Vườn Quốc Gia Tràm Chim",
+    "desc_id": "DT_DT003_T009",
+    "text_snippet": "Tại điểm dừng chân, du khách có thể thưởng thức các món đồng quê như cá lóc nướng ăn cùng sen non, chuột quay lu, gà đốt lá tràm, lẩu chua cá linh điên điển, cá lóc kho tộ và bánh xèo."
+  },
+  {
+    "faiss_id": 181,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T001",
+    "text_snippet": "Chùa Vĩnh Tràng là một ngôi chùa Phật giáo, được xếp hạng di tích lịch sử - văn hóa cấp quốc gia năm 1984. Kiến trúc và các tác phẩm điêu khắc Phật giáo là những nội dung nổi bật khi tìm hiểu ngôi chùa."
+  },
+  {
+    "faiss_id": 182,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T002",
+    "text_snippet": "Chùa Vĩnh Tràng được xây dựng theo dạng chữ Quốc, gồm bốn hạng mục nối tiếp nhau: tiền đường, chánh điện, nhà tổ và nhà hậu. Các gian nhà sử dụng xi măng và gỗ quý, với hệ thống chạm khắc rồng, phượng và chữ Hán."
+  },
+  {
+    "faiss_id": 183,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T003",
+    "text_snippet": "Phía trước Chùa Vĩnh Tràng có hai cổng tam quan theo kiểu cổ lầu. Cổng được trang trí bằng nghệ thuật ghép mảnh sành sứ thành các bức tranh minh họa sự tích nhà Phật, truyện dân gian, tứ linh, tứ quý, hoa lá và mây trời. Những câu Phật hiệu và chữ Hán cũng xuất hiện trong các mảng trang trí trên cổng."
+  },
+  {
+    "faiss_id": 184,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T004",
+    "text_snippet": "Mặt trước tiền đường Chùa Vĩnh Tràng kết hợp các đường nét kiến trúc Á - Âu, với hàng cột thanh mảnh, vòm cong, bộ phù điêu Bát Tiên cưỡi thú và hoa văn nhiều màu sắc. Các chi tiết trang trí gồm vòm cửa kiểu La Mã, hoa văn Phục Hưng, bông sắt phong cách Pháp và gạch men Nhật Bản."
+  },
+  {
+    "faiss_id": 185,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T005",
+    "text_snippet": "Bên trong chánh điện và nhà tổ Chùa Vĩnh Tràng mang nét điêu khắc truyền thống Việt Nam. Hệ thống cột gỗ, bao lam Bát Tiên cưỡi thú, hoành phi và câu đối đi cùng các hình chạm, tượng Phật được thếp vàng. Những đôi long trụ bằng gỗ quý được chạm hình rồng và chim phượng."
+  },
+  {
+    "faiss_id": 186,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T006",
+    "text_snippet": "Chùa Vĩnh Tràng lưu giữ hơn 60 tượng Phật bằng nhiều chất liệu, trong đó có gỗ, đồng và đất nung. Bộ Thập bát La Hán trong chánh điện gồm 18 vị được tạc bằng gỗ mít, đặt ở hai bên tường. Mỗi vị có dáng thế, nét mặt và pháp khí riêng, tạo nên sự khác biệt giữa các pho tượng trong cùng bộ."
+  },
+  {
+    "faiss_id": 187,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T007",
+    "text_snippet": "Khuôn viên Chùa Vĩnh Tràng có hoa viên, hồ nước, các khoảng sân và nhiều cây xanh tạo bóng mát. Không gian sân vườn gắn với các khu tượng Phật và các hạng mục kiến trúc, tạo thành những khu vực để tham quan, chiêm bái và quan sát công trình."
+  },
+  {
+    "faiss_id": 188,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T008",
+    "text_snippet": "Tượng Phật A Di Đà tại Chùa Vĩnh Tràng có tư thế đứng, đặt trên bệ giữa hoa viên và có thể quan sát từ nhiều vị trí trong khuôn viên."
+  },
+  {
+    "faiss_id": 189,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T009",
+    "text_snippet": "Tượng Phật Di Lặc tại Chùa Vĩnh Tràng có tư thế ngồi, được xây bằng bê tông cốt thép. Không gian bên trong công trình được sử dụng cho sinh hoạt Phật sự."
+  },
+  {
+    "faiss_id": 190,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T010",
+    "text_snippet": "Tượng Phật Thích Ca nhập Niết Bàn tại Chùa Vĩnh Tràng là pho tượng Phật nằm. Phía sau khu tượng nằm có bảo tháp bảy tầng, nơi lưu giữ tro cốt của chư tăng và Phật tử. Đây là không gian chiêm bái và tưởng niệm, cần giữ yên lặng và tuân theo biển chỉ dẫn hạn chế vào khu vực."
+  },
+  {
+    "faiss_id": 191,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T011",
+    "text_snippet": "Trong các hiện vật của Chùa Vĩnh Tràng có đại hồng chung mang tên Pháp Bảo và bộ 20 bức tranh sơn thủy. Những hiện vật này cùng hệ thống tượng thờ và chạm khắc là nội dung để tìm hiểu nghệ thuật Phật giáo tại chùa."
+  },
+  {
+    "faiss_id": 192,
+    "place_id": "DT_TG001",
+    "place_name": "Chùa Vĩnh Tràng",
+    "desc_id": "DT_TG001_T012",
+    "text_snippet": "Tại Chùa Vĩnh Tràng, khách có thể hành hương, chiêm bái các tượng Phật, quan sát cổng tam quan, mặt tiền tiền đường và hệ thống bao lam, tượng cổ trong chánh điện. Việc chụp ảnh lưu niệm thực hiện ở khu vực được phép; khi vào nơi thờ tự cần mặc trang phục lịch sự và xin phép trước khi chụp ảnh bên trong."
+  },
+  {
+    "faiss_id": 193,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T001",
+    "text_snippet": "Nhà cổ Ba Đức là một ngôi nhà lâu đời trong làng cổ Đông Hòa Hiệp, gắn với đời sống một gia đình qua nhiều thế hệ. Ban đầu nhà được cất theo kiểu nhà Nam Bộ; năm 1938, ngôi nhà được sửa lại, thay vách ván bằng tường xây và kết hợp thêm kiến trúc phương Tây."
+  },
+  {
+    "faiss_id": 194,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T002",
+    "text_snippet": "Nhà cổ Ba Đức kết hợp kiến trúc Việt Nam truyền thống với phong cách Pháp cổ điển. Mặt tiền có hàng cột tròn, các khung vòm và hoa văn ở đầu cột mang dấu ấn phương Tây; không gian bên trong được thiết kế theo kiến trúc dân gian Nam Bộ, sử dụng gỗ làm vật liệu chính."
+  },
+  {
+    "faiss_id": 195,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T003",
+    "text_snippet": "Nhà cổ Ba Đức gồm hai khối nhà trên và nhà dưới, ngăn cách bởi một khoảng sân nhỏ gọi là thiên tĩnh, hay giếng trời, giúp hứng ánh sáng và tạo sự thông thoáng. Nhà trên dùng để thờ tự và tiếp khách; nhà dưới là không gian sinh hoạt của gia đình. Hệ thống cửa gỗ góp phần lấy sáng và lấy gió tự nhiên cho các gian nhà."
+  },
+  {
+    "faiss_id": 196,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T004",
+    "text_snippet": "Chính giữa gian nhà trước của Nhà cổ Ba Đức có bốn cột tròn bằng gỗ căm xe. Bên trong bố trí bàn thờ trời đất và tổ tiên, cùng liễn, hoành phi và câu đối. Các câu đối ở gian thờ khuyên con cháu tích đức và làm việc thiện, thể hiện nền nếp gia đình được gìn giữ trong ngôi nhà."
+  },
+  {
+    "faiss_id": 197,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T005",
+    "text_snippet": "Nội thất Nhà cổ Ba Đức có ba bộ tủ thờ cẩn ốc xà cừ. Bên tay phải tủ thờ có chiếc hộp gỗ cẩn hình rồng, lưu giữ bản sắc phong do vua Tự Đức ban. Những bình gốm, đèn dầu và đèn trang trí trong nhà cũng là đồ cổ được gia đình gìn giữ qua nhiều đời."
+  },
+  {
+    "faiss_id": 198,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T006",
+    "text_snippet": "Trên ba bức tường chính quanh phòng khách Nhà cổ Ba Đức có chín bức tranh vẽ cảnh làng quê bên dòng sông. Các bức tranh được gắn với hình ảnh chín nhánh sông Cửu Long, đưa cảnh quan sông nước vào trang trí không gian tiếp khách."
+  },
+  {
+    "faiss_id": 199,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T007",
+    "text_snippet": "Nhà cổ Ba Đức nằm trong khuôn viên rộng hơn hai hecta, bao quanh bởi vườn cây cảnh và vườn cây ăn trái. Các loại cây ăn trái gồm xoài cát Hòa Lộc, chôm chôm và măng cụt. Sân trước có hoa, cây xanh và cây cảnh được cắt tỉa, nối không gian ngôi nhà với khu vườn."
+  },
+  {
+    "faiss_id": 200,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T008",
+    "text_snippet": "Khi tham quan Nhà cổ Ba Đức, khách có thể quan sát mặt tiền, kết cấu gỗ và các chi tiết trang trí, chụp ảnh kiến trúc, đồng thời nghe chủ nhà hoặc người thân trong gia đình chia sẻ về lịch sử ngôi nhà và gia tộc. Khách cũng có thể dạo quanh khuôn viên để ngắm cây xanh, ao cá và nét sinh hoạt miệt vườn."
+  },
+  {
+    "faiss_id": 201,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T009",
+    "text_snippet": "Tại Nhà cổ Ba Đức, khách có thể uống trà và thưởng thức trái cây vườn nhà trong không gian yên tĩnh. Trải nghiệm này gắn với việc tham quan ngôi nhà và tìm hiểu nếp sinh hoạt miệt vườn."
+  },
+  {
+    "faiss_id": 202,
+    "place_id": "DT_TG002",
+    "place_name": "Nhà Cổ Ba Đức",
+    "desc_id": "DT_TG002_T010",
+    "text_snippet": "Nhà cổ Ba Đức có bán bánh phồng chay đóng hộp cho khách. Các hộp mang nhãn Nhà Cổ và ghi Đặc sản Cái Bè, là một sản phẩm gắn với trải nghiệm mua đặc sản khi ghé ngôi nhà."
+  },
+  {
+    "faiss_id": 203,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T001",
+    "text_snippet": "Hòn Đá Bạc là cụm đảo ven biển Cà Mau gồm Hòn Ông Ngộ, Hòn Đá Lẻ và Hòn Đá Bạc. Cảnh quan nổi bật với những khối đá granit lớn nhỏ xếp chồng lên nhau, các bãi đá sát mép nước và những mảng rừng cùng thảm thực vật nguyên sinh trên hòn. Địa hình đá xen cây xanh tạo nên nhiều góc nhìn ra vùng biển xung quanh."
+  },
+  {
+    "faiss_id": 204,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T002",
+    "text_snippet": "Các điểm đá gắn với truyền thuyết tại Hòn Đá Bạc gồm Sân Tiên, Giếng Tiên, Bàn Chân Tiên và bàn tay năm ngón bằng đá. Sân Tiên là khoảng sân đá bằng phẳng được bao quanh bởi các khối đá lớn; Giếng Tiên là mạch nước ngọt trong lòng đá; Bàn Chân Tiên là dấu lõm trên đá. Những tên gọi và câu chuyện về tiên tạo nên nét văn hóa dân gian gắn với cảnh quan tự nhiên của cụm đảo."
+  },
+  {
+    "faiss_id": 205,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T003",
+    "text_snippet": "Du khách có thể đi dạo quanh các cụm đá, theo những lối đi và cầu nối để ngắm biển, nghỉ chân và chụp ảnh với cảnh quan đá ven bờ. Cầu dẫn nối các hòn cũng là vị trí ngắm hoàng hôn trên biển, kết hợp với việc ghé các điểm tín ngưỡng và lịch sử trong chuyến tham quan."
+  },
+  {
+    "faiss_id": 206,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T004",
+    "text_snippet": "Hòn Đá Bạc gắn với Kế hoạch CM12 và hoạt động bảo vệ an ninh Tổ quốc. Du khách có thể tham quan Tượng đài Bảo vệ An ninh Tổ quốc và không gian bảo tàng trưng bày hiện vật, hình ảnh, tư liệu về CM12 để tìm hiểu câu chuyện lịch sử của địa điểm."
+  },
+  {
+    "faiss_id": 207,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T005",
+    "text_snippet": "Lăng Ông Nam Hải tại Hòn Đá Bạc gắn với tín ngưỡng thờ cá Ông của cư dân miền biển. Trong lăng có bộ xương cá voi được lưu giữ và trưng bày để thờ phụng; những câu chuyện cá Ông cứu người gặp nạn thể hiện niềm tin của ngư dân vào sự che chở khi đi biển. Khi lăng mở cửa, du khách có thể vào tham quan và tìm hiểu tín ngưỡng này trong không gian thờ tự."
+  },
+  {
+    "faiss_id": 208,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T006",
+    "text_snippet": "Lễ hội Nghinh Ông ở Hòn Đá Bạc diễn ra vào ngày 23 tháng 5 âm lịch hằng năm. Ngư dân địa phương và khách thập phương về dự lễ để cầu mưa thuận gió hòa, quốc thái dân an và đánh bắt được mùa. Lễ hội gắn với tín ngưỡng thờ cá Ông và đời sống của cộng đồng cư dân biển."
+  },
+  {
+    "faiss_id": 209,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T007",
+    "text_snippet": "Vùng biển quanh Hòn Đá Bạc có các trải nghiệm gắn với sinh hoạt đánh bắt của ngư dân như câu cá nâu, câu mực ban đêm và khai thác hàu ở bãi đá. Khi có ngư dân địa phương tổ chức và hướng dẫn, khách có thể tham gia chuyến ra khơi, cạy hàu hoặc lặn bắt hàu, tìm hiểu cách người dân khai thác hải sản quanh hòn."
+  },
+  {
+    "faiss_id": 210,
+    "place_id": "CM_CM001",
+    "place_name": "Hòn Đá Bạc",
+    "desc_id": "CM_CM001_T008",
+    "text_snippet": "Ẩm thực gắn với chuyến tham quan Hòn Đá Bạc có hàu nướng chao, cá nâu kho trái giác và tôm tít hấp hoặc nướng mọi. Du khách có thể thưởng thức hải sản chế biến trên bếp than, kết hợp tìm hiểu sinh hoạt đánh bắt của ngư dân. Các điểm ăn uống phục vụ chuyến tham quan nằm dọc đường dẫn vào khu du lịch hoặc tại những nhà hàng gia đình gần đó."
+  },
+  {
+    "faiss_id": 211,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T001",
+    "text_snippet": "Nhà Công tử Bạc Liêu mang kiến trúc giao thoa Đông – Tây, do kiến trúc sư người Pháp thiết kế, với gam màu vàng và trắng chủ đạo. Các hàng cột, đường gờ phào, hoa văn trang trí và đèn treo tạo nên những chi tiết nổi bật của không gian bên trong. Nền gạch cổ, cửa vòm và khu vườn cây góp phần tạo bối cảnh tham quan, chụp ảnh mang nét kiến trúc xưa."
+  },
+  {
+    "faiss_id": 212,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T002",
+    "text_snippet": "Dinh thự Công tử Bạc Liêu có hai tầng chính, gồm phòng khách, phòng ngủ và các đại sảnh, nối nhau bằng cầu thang đá cẩm thạch. Tầng trệt có hai phòng ngủ và hai sảnh lớn; tầng lầu có các phòng ngủ cùng hai sảnh đón ánh sáng, gió tự nhiên. Từ ban công có thể nhìn ra khung cảnh sông nước và khu phố xung quanh."
+  },
+  {
+    "faiss_id": 213,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T003",
+    "text_snippet": "Không gian trưng bày tại Nhà Công tử Bạc Liêu có các bộ bàn ghế, tủ và đồ gỗ chạm khảm xà cừ, bên cạnh bình hoa và đồ gốm sứ. Những hiện vật được giới thiệu gồm bộ trường kỷ bằng gỗ nguyên khối, bộ bàn xoay Tam lân với mặt đá tròn và chân chạm ba con lân, bộ Tượng bành, sập Tam thành và bàn đánh bài."
+  },
+  {
+    "faiss_id": 214,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T004",
+    "text_snippet": "Hai hiện vật được chú ý tại Nhà Công tử Bạc Liêu là giường nóng và giường lạnh, được giới thiệu là làm bằng gỗ sưa với các chi tiết cẩn xà cừ."
+  },
+  {
+    "faiss_id": 215,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T005",
+    "text_snippet": "Trong Nhà Công tử Bạc Liêu có khu đặt bàn thờ và tượng cha mẹ Công tử, cùng ảnh gia đình để khách tìm hiểu về gia đình Trần Trinh. Cầu thang gỗ nhỏ dẫn tới căn gác gắn với câu chuyện gia đình phơi tiền để tránh ẩm mốc. Một chiếc ô tô cổ cũng được trưng bày trong khu tham quan."
+  },
+  {
+    "faiss_id": 216,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T006",
+    "text_snippet": "Du khách đến Nhà Công tử Bạc Liêu có thể quan sát kiến trúc, xem các không gian trưng bày và nghe thuyết minh về kiến trúc cùng những giai thoại gắn với Công tử Bạc Liêu. Việc nghe thuyết minh phụ thuộc vào bố trí hướng dẫn tại thời điểm tham quan. Sân vườn, cầu thang, nền gạch và các cửa vòm là những không gian được bài thu thập giới thiệu cho hoạt động chụp ảnh lưu niệm."
+  },
+  {
+    "faiss_id": 217,
+    "place_id": "CM_BL001",
+    "place_name": "Nhà Công Tử Bạc Liêu",
+    "desc_id": "CM_BL001_T007",
+    "text_snippet": "Trong phạm vi Nhà Công tử Bạc Liêu có dịch vụ lưu trú với phòng nghỉ mô phỏng không gian sinh hoạt của Công tử Bạc Liêu. Khách có nhu cầu nghỉ lại có thể liên hệ đặt phòng trước."
+  },
+  {
+    "faiss_id": 218,
+    "place_id": "CM_BL002",
+    "place_name": "Cánh Đồng Điện Gió Bạc Liêu",
+    "desc_id": "CM_BL002_T001",
+    "text_snippet": "Cánh đồng điện gió Bạc Liêu có các trụ turbine màu trắng dựng trên vùng biển ven bờ, tạo thành những hàng cánh quạt nổi bật giữa không gian trời nước rộng mở. Hệ thống gồm 62 trụ turbine, mỗi trụ cao khoảng 80 m với cánh quạt dài 42 m, tạo nên cảnh quan công trình điện gió trên biển."
+  },
+  {
+    "faiss_id": 219,
+    "place_id": "CM_BL002",
+    "place_name": "Cánh Đồng Điện Gió Bạc Liêu",
+    "desc_id": "CM_BL002_T002",
+    "text_snippet": "Du khách có thể đi bộ trên những lối cầu bê tông dẫn ra các turbine để quan sát công trình ở khoảng cách gần và nhìn ra mặt biển xung quanh. Những lối đi giữa không gian biển thoáng rộng cũng là nơi tận hưởng gió biển trong chuyến tham quan."
+  },
+  {
+    "faiss_id": 220,
+    "place_id": "CM_BL002",
+    "place_name": "Cánh Đồng Điện Gió Bạc Liêu",
+    "desc_id": "CM_BL002_T003",
+    "text_snippet": "Chụp ảnh với các trụ turbine và hàng cánh quạt trải dài trên biển là một hoạt động tại cánh đồng điện gió Bạc Liêu. Vào bình minh hoặc hoàng hôn, ánh mặt trời chiếu trên mặt nước và những cánh quạt tạo nên bối cảnh khác với khung cảnh ban ngày; khách có thể ngắm cảnh và ghi lại hình ảnh trong không gian trời nước."
+  },
+  {
+    "faiss_id": 221,
+    "place_id": "CM_BL002",
+    "place_name": "Cánh Đồng Điện Gió Bạc Liêu",
+    "desc_id": "CM_BL002_T004",
+    "text_snippet": "Khi tham quan theo tour hoặc có nhân viên hướng dẫn tại cánh đồng điện gió Bạc Liêu, du khách có thể được giới thiệu về cách hoạt động của turbine, quá trình sản xuất điện từ gió và vai trò của năng lượng tái tạo đối với môi trường."
+  },
+  {
+    "faiss_id": 222,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T001",
+    "text_snippet": "Khu rừng ngập nước thuộc vùng phía Tây sông Hậu, có những dải tràm mọc dày xen hệ thống kênh rạch. Tán cây, mặt nước và thảm thực vật thủy sinh tạo nên cảnh quan rừng để tham quan, quan sát thiên nhiên và chụp ảnh."
+  },
+  {
+    "faiss_id": 223,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T002",
+    "text_snippet": "Dưới tán tràm, mặt nước có những thảm bèo tấm, bèo cám và bèo tai tượng, xen hoa súng trắng, bông điên điển vàng và hoa tràm. Vào mùa nước nổi, cảnh quan mặt nước và thảm bèo là nét nổi bật của chuyến tham quan. Rừng còn là nơi sinh sống của nhiều loài chim, cá và động vật khác; du khách có thể quan sát cò, vạc, le le và nghe tiếng chim giữa các tán cây."
+  },
+  {
+    "faiss_id": 224,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T003",
+    "text_snippet": "Du khách khám phá rừng tràm bằng tắc ráng, loại xuồng nhỏ gắn động cơ, và xuồng chèo len theo những con rạch trong rừng. Từ xuồng, có thể ngắm tán tràm rủ xuống gần mặt nước, thảm bèo và những cầu khỉ nối các vạt rừng. Hành trình còn có các đoạn đi bộ dưới bóng cây, kết hợp quan sát cảnh quan và chụp ảnh sông nước."
+  },
+  {
+    "faiss_id": 225,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T004",
+    "text_snippet": "Cầu Tre Vạn Bước là lối đi bộ bằng tre xuyên qua Rừng tràm. Đi dạo trên cầu, du khách có thể nhìn xuống thảm bèo và mặt nước giữa những thân tràm, ngắm cảnh rừng và chụp ảnh dọc tuyến cầu."
+  },
+  {
+    "faiss_id": 226,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T005",
+    "text_snippet": "Khu bến tàu Rừng tràm Trà Sư có cầu kiều và những nhà bồ câu dựng cao trên trụ, tạo thành khu tham quan được gọi là “Thành phố Bồ Câu”. Đây là nơi du khách ngắm bồ câu, chụp ảnh cùng các nhà chim và không gian cây xanh quanh bến."
+  },
+  {
+    "faiss_id": 227,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T006",
+    "text_snippet": "Từ đài quan sát trong Rừng tràm Trà Sư, du khách có thể ngắm toàn cảnh tán rừng, nhìn về dãy Thất Sơn và những khu dân cư ở xa. Đài có kính viễn vọng phục vụ quan sát cảnh quan. Vào chiều muộn, đây cũng là nơi ngắm hoàng hôn và quan sát chim bay về tổ."
+  },
+  {
+    "faiss_id": 228,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T007",
+    "text_snippet": "Trên đường tham quan Trà Sư, du khách có thể bắt gặp người dân thu hoạch mật ong hoa tràm từ các thùng nuôi đặt trong rừng. Mật ong và tinh dầu tràm cũng là những sản phẩm được giới thiệu để mua làm quà sau chuyến đi."
+  },
+  {
+    "faiss_id": 229,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T008",
+    "text_snippet": "Ẩm thực trong chuyến tham quan Trà Sư có các món như cá lóc nướng trui ăn kèm rau rừng, mắm me; gà nướng mật ong hoa tràm; gà đốt lá trúc; lẩu mắm và lẩu chua cá hú với bông súng, bông điên điển."
+  },
+  {
+    "faiss_id": 230,
+    "place_id": "AG_AG001",
+    "place_name": "Rừng Tràm Trà Sư",
+    "desc_id": "AG_AG001_T009",
+    "text_snippet": "Tại những lán bên bìa Rừng tràm Trà Sư, trải nghiệm dùng bữa còn gắn với nghe ca vọng cổ trong không gian rừng."
+  },
+  {
+    "faiss_id": 231,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T001",
+    "text_snippet": "Chùa Tà Pạ nằm trên ngọn núi cùng tên ở vùng Tri Tôn, An Giang, mang kiến trúc Phật giáo Nam tông Khmer. Các công trình được bố trí theo sườn núi, xen giữa những tán cây và nối với nhau bằng lối đi, bậc thang. Du khách đến chùa để tham quan kiến trúc, hành hương, cúng lễ và ngắm cảnh vùng Bảy Núi."
+  },
+  {
+    "faiss_id": 232,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T002",
+    "text_snippet": "Chánh điện Chùa Tà Pạ nằm bên sườn núi, được nâng đỡ bởi 120 cột bê tông cao. Những hàng cột đưa công trình lên cao giữa tán cây, khiến chánh điện nhìn từ chân núi có cảm giác như lơ lửng trên không."
+  },
+  {
+    "faiss_id": 233,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T003",
+    "text_snippet": "Kiến trúc Chùa Tà Pạ có mái ngói với các mũi mái cong, những đỉnh hình tam giác và tháp nhọn vươn cao. Tranh tượng, phù điêu cùng hoa văn trên kèo, cột và cửa khắc họa tích truyện về cuộc đời Đức Phật và những hình ảnh sinh hoạt của cộng đồng Khmer, kết hợp đặc điểm kiến trúc với nội dung tín ngưỡng và văn hóa."
+  },
+  {
+    "faiss_id": 234,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T004",
+    "text_snippet": "Trong khuôn viên Chùa Tà Pạ có tháp cốt, bảo tháp và tượng Phật trong tư thế ngồi hướng về phía thị trấn. Các lan can được trang trí bằng những tượng đúc màu cam; hình tượng chim thần và rắn thần Naga xuất hiện trong nghệ thuật trang trí của chùa, tạo thêm những chi tiết để quan sát khi đi giữa các công trình."
+  },
+  {
+    "faiss_id": 235,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T005",
+    "text_snippet": "Lối từ chân núi lên chánh điện Chùa Tà Pạ có 240 bậc thang, đi qua sườn núi phủ cây xanh. Trên đường đi, du khách có thể quan sát kiến trúc chùa từ thấp lên và ngắm cảnh núi rừng, đồng bằng phía dưới. Theo bài thu thập, lối cầu thang được trang trí đèn LED nhiều màu khi đêm xuống."
+  },
+  {
+    "faiss_id": 236,
+    "place_id": "AG_AG002",
+    "place_name": "Chùa Tà Pạ",
+    "desc_id": "AG_AG002_T006",
+    "text_snippet": "Từ khu vực chánh điện và sân Chùa Tà Pạ, tầm nhìn mở ra cánh đồng, khu dân cư, hồ nước và những dãy núi thấp xung quanh. Các lớp cây, ruộng và núi tạo nên không gian ngắm cảnh từ trên cao, đồng thời cho thấy sự gắn kết giữa chùa và cảnh quan vùng Tri Tôn."
+  },
+  {
+    "faiss_id": 237,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T001",
+    "text_snippet": "Hồ Ô Thum là điểm tham quan sinh thái có mặt hồ nằm dưới những sườn núi phủ cây xanh. Cảnh quan kết hợp mặt nước, núi thấp và bầu trời rộng. Du khách có thể ngắm cảnh, chụp ảnh hồ vào sáng sớm hoặc cuối chiều."
+  },
+  {
+    "faiss_id": 238,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T002",
+    "text_snippet": "Dọc Hồ Ô Thum có đường đi ven nước và những cây thốt nốt mọc rải rác, có đoạn hàng cây sát mặt hồ. Trong hồ có gò đất nhô lên như một đảo nhỏ, được nối với bờ bằng cầu gỗ do người dân quanh vùng cùng xây dựng. Du khách có thể đi dạo, ngắm hàng thốt nốt và chụp ảnh trên tuyến cầu nối qua mặt nước."
+  },
+  {
+    "faiss_id": 239,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T003",
+    "text_snippet": "Tại Hồ Ô Thum có trải nghiệm mua vé tự chèo thuyền quanh hồ. Từ thuyền, du khách có thể ngắm mặt nước, cây ven bờ và cảnh núi bao quanh ở góc nhìn gần mặt hồ. Hoạt động này bổ sung một cách khám phá cảnh quan bên cạnh đi bộ trên đường ven hồ và cầu gỗ."
+  },
+  {
+    "faiss_id": 240,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T004",
+    "text_snippet": "Khu cắm trại thuộc điểm tham quan Hồ Ô Thum có các lều trắng hình chóp đặt giữa bãi cỏ và cây xanh, phía sau là triền đá. Đây là một không gian trải nghiệm cắm trại trong chuyến đến hồ, bên cạnh hoạt động dạo bộ và ngắm cảnh."
+  },
+  {
+    "faiss_id": 241,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T005",
+    "text_snippet": "Trải nghiệm ẩm thực trong chuyến tham quan Hồ Ô Thum có món gà đốt lá chúc. Gà ta được để nguyên con, ướp với các gia vị như sả, ớt, muối và tỏi rồi đốt cùng lá chúc, tạo hương thơm đặc trưng cho món ăn. Du khách có thể kết hợp thưởng thức món gà với chuyến ngắm cảnh hồ và núi ở khu vực Ô Thum."
+  },
+  {
+    "faiss_id": 242,
+    "place_id": "AG_AG003",
+    "place_name": "Hồ Ô Thum",
+    "desc_id": "AG_AG003_T006",
+    "text_snippet": "Dọc đường vào Hồ Ô Thum có những quầy hàng nhỏ của người dân bán trái thốt nốt tươi, nước giải khát và các sản phẩm từ thốt nốt. Du khách có thể thưởng thức sản vật này trong chuyến đi và mua đường thốt nốt làm quà. Các quầy hàng trên đường vào hồ tạo mối liên hệ giữa cảnh quan hàng thốt nốt và trải nghiệm sản vật địa phương."
+  },
+  {
+    "faiss_id": 243,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T001",
+    "text_snippet": "Miếu Bà Chúa Xứ nằm dưới chân núi Sam, là điểm tham quan tâm linh gắn với tín ngưỡng thờ Bà của người dân Nam Bộ. Không gian miếu có cây xanh quanh sân và các công trình thờ tự, nơi người dân và du khách đến chiêm bái, tìm hiểu kiến trúc và đời sống tín ngưỡng địa phương."
+  },
+  {
+    "faiss_id": 244,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T002",
+    "text_snippet": "Miếu Bà Chúa Xứ có bố cục hình chữ Quốc, khối tháp được tạo dáng như bông sen nở và hệ mái tam cấp lợp ngói đại ống màu xanh, các góc mái vươn cong. Nền lát gạch bông, tường ốp đá và cột bê tông cốt thép tạo nên phần kết cấu của công trình. Hoa văn, khung bao và cánh cửa được chạm trổ; kiến trúc kết hợp nét truyền thống Việt Nam với yếu tố Khmer, trong khi hoa văn ở cổ lầu chánh điện được tài liệu mô tả là mang ảnh hưởng nghệ thuật Ấn Độ."
+  },
+  {
+    "faiss_id": 245,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T003",
+    "text_snippet": "Chánh điện là nơi thờ Bà Chúa Xứ, gồm hai lớp không gian; lớp trong đặt tượng Bà bằng đá sa thạch trên bệ cao, hai bên có đôi hạc trắng. Tại lối vào có câu đối thể hiện niềm tin của người dân vào sự ban phúc và che chở của Bà. Bức tường phía sau tượng và bốn cột cổ lầu trước chánh điện là những bộ phận được giữ lại từ kiến trúc cũ theo bài thu thập."
+  },
+  {
+    "faiss_id": 246,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T004",
+    "text_snippet": "Cổng tam quan Miếu Bà Chúa Xứ có các cột trụ, mái ngói cong cùng họa tiết rồng, phượng và hoa sen. Sân miếu lát gạch, có cây xanh xung quanh và là không gian diễn ra các nghi lễ như rước Bà, tế Bà. Những hình tượng rồng, phượng, kỳ lân và hoa sen trong nghệ thuật trang trí thể hiện sự tôn kính đối với Bà trong tín ngưỡng dân gian."
+  },
+  {
+    "faiss_id": 247,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T005",
+    "text_snippet": "Lễ hội Vía Bà Chúa Xứ Núi Sam kết hợp sinh hoạt tín ngưỡng với các hoạt động văn hóa, văn nghệ như hát bội và múa lân. Trong dịp lễ hội, tài liệu còn ghi nhận những trò chơi dân gian gồm kéo co, nhảy sạp, bịt mắt bắt dê và không gian giao lưu của người dân, du khách. Khu vực xung quanh miếu có các gian hàng ẩm thực, quà lưu niệm và hoạt động vui chơi gắn với không khí lễ hội."
+  },
+  {
+    "faiss_id": 248,
+    "place_id": "AG_AG004",
+    "place_name": "Miếu Bà Chúa Xứ",
+    "desc_id": "AG_AG004_T006",
+    "text_snippet": "Trên đỉnh núi Sam có điểm bệ đá gắn với câu chuyện về nơi tượng Bà Chúa Xứ từng ngự, được giới thiệu trên bia tại khu thờ. Bệ nằm dưới mái che, xung quanh có lan can và đôi tượng hạc. Điểm này nằm trên đỉnh núi, tách biệt với khu miếu thờ Bà dưới chân núi."
+  },
+  {
+    "faiss_id": 249,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T001",
+    "text_snippet": "Khu du lịch Mũi Nai có không gian ven biển kết hợp với núi Tà Pang, gồm hai bãi tắm thường được gọi là bãi Nô và bãi Bằng. Bãi Nô gần khu dân cư và xóm chài, trong khi bãi Bằng có không gian thoáng để tắm biển và nghỉ ngơi. Bờ biển dài, uốn cong như hình lưỡi liềm; cát và nước có thể mang sắc nâu do ảnh hưởng của phù sa, nước khá trong vào mùa khô."
+  },
+  {
+    "faiss_id": 250,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T002",
+    "text_snippet": "Tại các bãi tắm Mũi Nai, du khách có thể tắm biển, đi dạo hoặc chạy bộ dọc bờ cát, nghỉ ngơi dưới những tán cây và chụp ảnh bên mép sóng. Bãi biển còn có sân bóng chuyền, bổ sung hoạt động vận động trên cát bên cạnh các trải nghiệm dưới nước."
+  },
+  {
+    "faiss_id": 251,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T003",
+    "text_snippet": "Ngắm hoàng hôn là một trải nghiệm tại Mũi Nai khi mặt trời hạ thấp về phía biển Tây, làm bầu trời chuyển sắc vàng, cam và đỏ. Du khách có thể ngắm cảnh và chụp ảnh từ bãi cát, mép sóng hoặc những tảng đá ven biển;"
+  },
+  {
+    "faiss_id": 252,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T004",
+    "text_snippet": "Các trò chơi và hoạt động trên biển tại Mũi Nai gồm phao chuối, mô tô nước, ca nô, dù lượn, phao bay, chèo thuyền kayak, bơi xuồng và câu cá. Việc tổ chức từng dịch vụ có thể thay đổi theo mùa, nhà cung cấp, thời tiết và điều kiện vận hành trong ngày."
+  },
+  {
+    "faiss_id": 253,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T005",
+    "text_snippet": "Khu du lịch Mũi Nai có hệ thống xe trượt núi Tà Pang, đưa khách từ khu vực chân núi lên cao rồi trải nghiệm đoạn trượt xuống. Du khách còn có thể ngắm cảnh biển Mũi Nai từ trên cao."
+  },
+  {
+    "faiss_id": 254,
+    "place_id": "AG_KG001",
+    "place_name": "Khu Du Lịch Mũi Nai",
+    "desc_id": "AG_KG001_T006",
+    "text_snippet": "Trải nghiệm ẩm thực ở Mũi Nai gắn với các nhà hàng hướng biển và việc dùng bữa gần bãi tắm. Có cá đuối, ốc giác, cá sòng; các món phục vụ tại đây còn có bánh canh ghẹ, mực nướng, tôm hấp và cá lóc nướng trui. Du khách có thể kết hợp thưởng thức những món này với chuyến tắm biển và ngắm cảnh ven bờ."
+  },
+  {
+    "faiss_id": 255,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T001",
+    "text_snippet": "Chùa Hộ Quốc ở Phú Quốc nằm trên sườn núi phủ rừng, mặt hướng ra biển, tạo không gian tham quan kết hợp công trình thờ tự với cảnh núi và biển. Chùa được thiết kế theo lối kiến trúc truyền thống thời Lý – Trần, với mái ngói đỏ uốn cong, cửa gỗ chạm trổ và các hàng cột, kèo gỗ lớn; trong đó có những cột gỗ lim được tài liệu giới thiệu."
+  },
+  {
+    "faiss_id": 256,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T002",
+    "text_snippet": "Khuôn viên Chùa Hộ Quốc có cổng tam quan, Điện Tam Bảo, nhà thờ Tổ, tháp chuông, tháp trống, khu nhà tăng và nhà ăn. Từ cổng chính, tượng Phật ngọc nằm trước lối lên chánh điện; 70 bậc đá được bố trí hai bên bức phù điêu rồng và hoa sen màu vàng. Lan can dọc bậc thang được tạo hình rồng, nối khoảng sân phía dưới với khu thờ ở trên cao."
+  },
+  {
+    "faiss_id": 257,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T003",
+    "text_snippet": "Chánh điện Chùa Hộ Quốc thờ Phật Thích Ca Mâu Ni mạ vàng ở trung tâm; các gian bên có tượng Văn Thù Sư Lợi Bồ Tát cưỡi sư tử và Phổ Hiền Bồ Tát cưỡi voi. Không gian thờ có các chi tiết chạm trổ, hoành phi và câu đối; sau chánh điện là nhà Tổ, hai bên có tháp chuông và tháp trống. Trong khuôn viên còn có tượng Quan Thế Âm Bồ Tát, các vị La Hán, Hộ Pháp và xá lợi Phật Thích Ca được tài liệu giới thiệu."
+  },
+  {
+    "faiss_id": 258,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T004",
+    "text_snippet": "Trong tuyến tham quan Chùa Hộ Quốc có Đền thờ Quốc Mẫu, với gian chính thờ Quốc Mẫu, hai bên thờ 18 đời Vua Hùng Vương và Bách gia trăm họ. Du khách có thể đi qua tháp trống, tháp chuông, dừng viết dây ước nguyện, rồi qua An Lạc Viên trên đường lên chánh điện. Phía trên An Lạc Viên có tượng Phật hướng về biển; trước chánh điện có Đại bảo tháp Kinh Chuyển Pháp Luân."
+  },
+  {
+    "faiss_id": 259,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T005",
+    "text_snippet": "Du khách đến Chùa Hộ Quốc có thể tham quan kiến trúc, chiêm bái, thắp hương cầu an, cúng dường và dành thời gian tĩnh tâm giữa cảnh rừng núi, biển. Không gian ngoài trời trong khuôn viên là nơi ngắm cảnh và chụp ảnh lưu niệm;"
+  },
+  {
+    "faiss_id": 260,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T006",
+    "text_snippet": "Sinh hoạt Phật giáo tại Chùa Hộ Quốc được tài liệu nhắc đến qua các dịp Phật Đản, Vu Lan báo hiếu, lễ chùa đầu năm và các khóa tu thiền. Những dịp này gắn với việc lễ chùa, chiêm bái và tìm hiểu đời sống tu học; lịch tổ chức cụ thể chưa được bài thu thập cung cấp."
+  },
+  {
+    "faiss_id": 261,
+    "place_id": "AG_KG002",
+    "place_name": "Chùa Hộ Quốc",
+    "desc_id": "AG_KG002_T007",
+    "text_snippet": "Trong chuyến tham quan Chùa Hộ Quốc, du khách có thể dùng bữa tại nhà ăn của chùa."
+  },
+  {
+    "faiss_id": 262,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T001",
+    "text_snippet": "Rừng U Minh Thượng có cảnh quan rừng tràm trên đất than bùn úng phèn, xen đồng cỏ, đầm lầy và các trảng nước. Hệ thống hồ và kênh rạch nối giữa những mảng rừng, có những đoạn nước nâu đỏ hoặc sẫm màu, trên mặt phủ các thảm thực vật thủy sinh. Lớp than bùn hình thành từ vật chất hữu cơ tích tụ trong môi trường ngập nước,"
+  },
+  {
+    "faiss_id": 263,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T002",
+    "text_snippet": "Du khách có thể khám phá Rừng U Minh Thượng bằng vỏ lãi hoặc xuồng máy do đơn vị tại vườn vận hành, đi dọc các tuyến kênh để quan sát rừng tràm, đầm lầy và chim nước. Một số khu vực có xuồng chèo tay hoặc xuồng ba lá, tùy mực nước và tình hình khai thác. Mùa mưa làm tăng lượng nước trên kênh và đầm lầy, thuận lợi cho một số tuyến đi xuồng; mùa khô có thể kết hợp đi bộ trên đường rừng và ngắm cảnh."
+  },
+  {
+    "faiss_id": 264,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T003",
+    "text_snippet": "Trảng Chim và Máng Dơi, còn gọi là Trảng Dơi, là những khu vực quan sát động vật hoang dã trong U Minh Thượng. Du khách có thể nhìn chim đậu, làm tổ và kiếm ăn ở các sinh cảnh đầm lầy; tại Máng Dơi có những đàn dơi đậu trên ngọn cây tràm. Hoạt động quan sát kết hợp việc tìm hiểu các loài thực vật và môi trường rừng ngập nước."
+  },
+  {
+    "faiss_id": 265,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T004",
+    "text_snippet": "Hồ Hoa Mai trong Rừng U Minh Thượng là nơi đi thuyền ngắm cảnh và câu cá giữa không gian cây xanh, mặt nước. Du khách có thể theo xuồng đến khu vực câu được cho phép, với các hình thức như câu phao, câu nhấp hoặc câu rê. Khu hồ còn được giới thiệu cho hoạt động dã ngoại, picnic và cắm trại. Ngoài câu cá, chuyến tham quan U Minh Thượng còn có trải nghiệm đặt lợp bắt cá."
+  },
+  {
+    "faiss_id": 266,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T005",
+    "text_snippet": "Tại U Minh Thượng, du khách có thể theo người thợ gác kèo tìm hiểu việc lấy mật ong rừng khi có tổ chức và hướng dẫn. Trải nghiệm gắn với nghề gác kèo ong trong rừng tràm, quan sát tổ ong và công việc thu hoạch mật; việc tham gia phụ thuộc chương trình thực tế tại vườn."
+  },
+  {
+    "faiss_id": 267,
+    "place_id": "AG_KG003",
+    "place_name": "Rừng U Minh Thượng",
+    "desc_id": "AG_KG003_T006",
+    "text_snippet": "Ẩm thực gắn với chuyến tham quan U Minh Thượng có cá lóc nướng đất sét và cá thát lát ướp sả ớt chiên giòn. Cá lóc được bọc đất sét rồi nướng bằng rơm, khi gỡ lớp đất ra có thể dùng phần thịt với muối ớt. Cá thát lát được ướp sả, ớt, chiên vàng hai mặt và ăn kèm nước mắm chua cay, rau sống."
+  }
+]
