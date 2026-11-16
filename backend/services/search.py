@@ -29,7 +29,7 @@ ALLOWED_IMAGE_FORMATS = {"JPEG", "PNG", "WEBP", "GIF"}
 PHOBERT_MODEL_NAME = "vinai/phobert-base"
 VIT_MODEL_NAME = "google/vit-base-patch16-224"
 EPSILON = 1e-8
-DEFAULT_TOP_K = 5
+DEFAULT_TOP_K = 3
 
 _ENGINE_LOCK = Lock()
 _SHARED_SEGMENTER = None
